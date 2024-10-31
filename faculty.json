@@ -4,11 +4,11 @@
         "role": "Dean",
         "department": "Humanities and Sciences",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-08/thumbnail_Claire%20%232.jpg.webp?itok=A6I4N48_",
-        "phone": "Phone: 607-274-3102",
-        "email": "Email: gleitman@ithaca.edu",
-        "office": "Office: Job Hall 310, Ithaca, NY 14850",
+        "phone": "607-274-3102",
+        "email": "gleitman@ithaca.edu",
+        "office": "Job Hall 310, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Dramatic Literature: Modern and Contemporary American",
+            "Modern and Contemporary American",
             "Irish and World Drama"
         ],
         "bio": {
@@ -48,19 +48,19 @@
         "name": "Amy O'Dowd",
         "role": "Associate Dean",
         "department": "Humanities and Sciences",
-        "phone": "Phone: 607-274-3102",
-        "email": "Email: aodowd@ithaca.edu",
-        "office": "Office: Job Hall 311, Ithaca, NY 14850"
+        "phone": "607-274-3102",
+        "email": "aodowd@ithaca.edu",
+        "office": "Job Hall 311, Ithaca, NY 14850"
     },
     {
         "name": "Raul Palma",
         "role": "Associate Dean",
         "department": "Humanities and Sciences",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/palma_10-18_a_0.jpeg.webp?itok=rhYbBCwd",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: rpalma@ithaca.edu",
+        "school": "School of Humanities and Sciences",
+        "email": "rpalma@ithaca.edu",
         "specialty": [
-            "Specialty: Creative Writing Studies",
+            "Creative Writing Studies",
             "Fiction Writing"
         ],
         "bio": {
@@ -76,12 +76,12 @@
         "role": "Associate Dean",
         "department": "Humanities and Sciences",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/brown3.jpg.webp?itok=V1tUK8Bv",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7375",
-        "email": "Email: dabrown@ithaca.edu",
-        "office": "Office: Job Hall 305, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7375",
+        "email": "dabrown@ithaca.edu",
+        "office": "Job Hall 305, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Complex Dynamics",
+            "Complex Dynamics",
             "Fractals"
         ],
         "bio": {
@@ -100,9 +100,9 @@
         "role": "Assistant to the Dean",
         "department": "Humanities and Sciences",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-04/Hsu%20website%20pic%204.13.23.jpg.webp?itok=NaDkuaPO",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jhsu1@ithaca.edu",
-        "office": "Office: Job Hall 306, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "jhsu1@ithaca.edu",
+        "office": "Job Hall 306, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "Jessica Hsu serves as a member of the administrative support team within the School of Humanities & Sciences Dean\u2019s office providing primary administrative support to the Dean. She coordinates the faculty recruitment and reappointment process and prepares and processes faculty contracts. Jessica provides direction and guidance regarding school policies and procedures and serves as a liaison and information source for department chairs, faculty and students.\u00a0 Jessica is also a member of IC's Staff Council representing the Athletics Department."
@@ -113,19 +113,19 @@
         "name": "Ann-Jeanette Ford",
         "role": "Administrative Assistant",
         "department": "Humanities and Sciences",
-        "phone": "Phone: 607-274-3102",
-        "email": "Email: aford2@ithaca.edu",
-        "office": "Office: Job Hall Suite 300, Ithaca, NY 14850"
+        "phone": "607-274-3102",
+        "email": "aford2@ithaca.edu",
+        "office": "Job Hall Suite 300, Ithaca, NY 14850"
     },
     {
         "name": "Paul Wilson",
         "role": "Associate Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/2018-10-15-07.18.26-copy.jpg.webp?itok=7Gl5uRLR",
-        "phone": "Phone: 607-274-3281",
-        "email": "Email: pwilson@ithaca.edu",
-        "office": "Office: Gannett G113",
-        "specialty": "Specialty: Contemporary Art and Museum Studies",
+        "phone": "607-274-3281",
+        "email": "pwilson@ithaca.edu",
+        "office": "Gannett G113",
+        "specialty": "Contemporary Art and Museum Studies",
         "bio": {
             "generic": [
                 "Education",
@@ -151,11 +151,11 @@
         "role": "Associate Professor and Associate Chair",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/_IMG0294.jpg.webp?itok=jsRBfuuB",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3078",
-        "email": "Email: dengler@ithaca.edu",
-        "office": "Office: Ceracche Center G114, Ithaca, NY 14850",
-        "specialty": "Specialty: Painting and Drawing",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3078",
+        "email": "dengler@ithaca.edu",
+        "office": "Ceracche Center G114, Ithaca, NY 14850",
+        "specialty": "Painting and Drawing",
         "bio": {
             "generic": [
                 "website: http://daraengler.com",
@@ -174,11 +174,11 @@
         "role": "Associate Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-03/p_capaldi.jpg.webp?itok=ziS-FYqS",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: pcapaldi@ithaca.edu",
-        "office": "Office: Art Studio 401, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "pcapaldi@ithaca.edu",
+        "office": "Art Studio 401, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Two-Dimensional Design",
+            "Two-Dimensional Design",
             "Graphic Design"
         ],
         "bio": {
@@ -193,11 +193,11 @@
         "role": "Assistant Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-10/IMG_6619.jpeg.webp?itok=hb_nNMNo",
-        "phone": "Phone: 607-274-7014",
-        "email": "Email: bhastings@ithaca.edu",
-        "office": "Office: Art Studio G-107A, Ithaca, NY 14850",
+        "phone": "607-274-7014",
+        "email": "bhastings@ithaca.edu",
+        "office": "Art Studio G-107A, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Coordinator of the Creative Space Gallery",
+            "Coordinator of the Creative Space Gallery",
             "Introductory",
             "Intermediate and Advanced Sculpture",
             "Theories of Art Practice",
@@ -226,11 +226,11 @@
         "role": "Lecturer",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/portrait%20in%20pink.jpg.webp?itok=IHJG8hj_",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: phunsinger@ithaca.edu",
-        "office": "Office: Art Studio G-118, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "phunsinger@ithaca.edu",
+        "office": "Art Studio G-118, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Drawing and Print Media: Intaglio",
+            "Intaglio",
             "Lithography",
             "Relief",
             "Serigraphy"
@@ -257,17 +257,17 @@
         "name": "Neil Infalvi",
         "role": "Lecturer",
         "department": "Architecture",
-        "email": "Email: ninfalvi@ithaca.edu"
+        "email": "ninfalvi@ithaca.edu"
     },
     {
         "name": "Amber Lia-Kloppel",
         "role": "Lecturer",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/2%20Amber%20Lia-Kloppel%20%2522Quench%2522%202015%20Oil%20on%20linen%2022x20%20inches%20copy_0.jpg.webp?itok=hYOw2z2I",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: aliakloppel@ithaca.edu",
-        "office": "Office: Ceracche Center 122, Ithaca, NY 14850",
-        "specialty": "Specialty: Painting and Drawing",
+        "school": "School of Humanities and Sciences",
+        "email": "aliakloppel@ithaca.edu",
+        "office": "Ceracche Center 122, Ithaca, NY 14850",
+        "specialty": "Painting and Drawing",
         "bio": {
             "generic": [
                 "Amber Lia-Kloppel was born in Ithaca, New York and she studied art as a young adult at the Community School of Music and Arts. She did her undergraduate study in Philadelphia at Moore College of Art and Design, receiving a BFA, and subsequently moved to New York City where she received her MFA from the New York Academy of Art. Amber has been awarded the Elizabeth Greenshields Foundation Grant, the Constance Saltonstall Foundation Grant, and the Stobart Foundation Grant for her work. During graduate school she was awarded a Prince of Wales/Forbes Foundation Travel Grant and Residency, and during undergraduate school she received the Emily Sartain Fellowship for European Travel.",
@@ -281,12 +281,12 @@
         "role": "Dana Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/jjolly-1.jpg.webp?itok=JhW78VyF",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1254",
-        "email": "Email: jjolly@ithaca.edu",
-        "office": "Office: Gannett Center G111, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1254",
+        "email": "jjolly@ithaca.edu",
+        "office": "Gannett Center G111, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Latin American",
+            "Latin American",
             "Latinx & Pre-Columbian Art",
             "Race and Representation"
         ],
@@ -315,9 +315,9 @@
         "role": "Associate Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/mainphoto-1.jpg.webp?itok=8cyO721g",
-        "phone": "Phone: 607-274-1261",
-        "email": "Email: rmajeed@ithaca.edu",
-        "office": "Office: Gannett Center G117, Ithaca, NY 14850",
+        "phone": "607-274-1261",
+        "email": "rmajeed@ithaca.edu",
+        "office": "Gannett Center G117, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "I specialize in medieval art in western Europe in tandem with the historical arts of Africa. My research explores how the two were treated, sometimes together, in the course of their respective receptions in European and American museums. The plurality of the term \"primitive\" and investigations of \"primitivism(s)\" that move beyond Modernist painting have been of particular interest in my thinking about the history of art.",
@@ -343,8 +343,8 @@
         "name": "Gary Wells",
         "role": "Retired Professor Emeritus",
         "department": "and Architecture",
-        "email": "Email: wells@ithaca.edu",
-        "specialty": "Specialty: 19th and 20th Century European Art",
+        "email": "wells@ithaca.edu",
+        "specialty": "19th and 20th Century European Art",
         "bio": {
             "generic": [
                 "I received my Ph.D. in Art History from\u00a0The Ohio State University, after a B.A. in Art and Art History from Baldwin-Wallace University. My primary area of teaching is focused on Modern Art in Europe in the 19th and 20th Centuries. In addition, I have offered topics such as Modern Art in Paris, Chemistry and Art, Dada and Surrealism, and Interpreting Modern Art. My general research interests include the relationship of art to science in the Modern era, the city of Paris as a center of Modern Art, and the role of technology in exploring visual knowledge. Some current projects include a study of the image of the night sky in 19th century paintings, and a text on the technical history of art."
@@ -356,9 +356,9 @@
         "role": "Retired Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/loc-2021-01-25-at-10.53.30-am.jpg.webp?itok=Rf26pf-z",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: oconnell@ithaca.edu",
-        "specialty": "Specialty: History of Architecture and Urbanism",
+        "school": "School of Humanities and Sciences",
+        "email": "oconnell@ithaca.edu",
+        "specialty": "History of Architecture and Urbanism",
         "bio": {
             "generic": [
                 "As a specialist in the history of architecture and urbanism (M.A and Ph.D. Cornell University;\u00a0B.A. University of Maryland) my work centers on architecture's relationship to culture, place, identity and memory.\u00a0 \u00a0Ongoing teaching projects include development of courses for the Ithaca Core Curriculum on the architectural expression\u00a0of racial, class and gender identities\u00a0(Placing Race and Gender, Reading Buildings), the study of pre-industrial \"green\" building principles (Architecture Across Cultures), the incorporation of 3-D computer modeling in the study of Urban Design (Great Spaces), and the exploration of architecture's histories through the lens of literature.\u00a0 My scholarship focuses on architecture in France and Russia in the 18th and 19th centuries; recent publication projects examine\u00a0the\u00a0legacy of the Ecole des Beaux Arts, the illustrated\u00a0travel album as a medium of cultural exchange,\u00a0the 19th century transformation of Paris, and the history of attitudes toward the architectural past.\u00a0 Other publications explore\u00a0the writings of 19th century French architect and preservation theorist Viollet-le-Duc\u00a0and the architectural impacts of the French Revolution.",
@@ -382,11 +382,11 @@
         "role": "Associate Professor and Chair",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/salomon-head-shot_0.jpg.webp?itok=yoKdXvpZ",
-        "phone": "Phone: 607-274-1380",
-        "email": "Email: dsalomon@ithaca.edu",
-        "office": "Office: Gannett Center G119, Ithaca, NY 14850",
+        "phone": "607-274-1380",
+        "email": "dsalomon@ithaca.edu",
+        "office": "Gannett Center G119, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Architectural Design",
+            "Architectural Design",
             "Architectural History",
             "Architectural Theory",
             "Patterns"
@@ -411,12 +411,12 @@
         "role": "Assistant Professor",
         "department": "Architecture",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-02/soltani_zohreh.jpg.webp?itok=KRUYxtHS",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3482",
-        "email": "Email: zsoltani@ithaca.edu",
-        "office": "Office: Gannett Center G114, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3482",
+        "email": "zsoltani@ithaca.edu",
+        "office": "Gannett Center G114, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Architectural History",
+            "Architectural History",
             "Theory",
             "and Design; Modern Architecture of the Islamic World; Public Space and Power Relations"
         ],
@@ -439,20 +439,20 @@
         "name": "Paul Nicholson",
         "role": "Director",
         "department": "Architecture",
-        "phone": "Phone: 607-274-3548",
-        "email": "Email: paulnicholson@ithaca.edu",
-        "office": "Office: Gannett Center G108, Ithaca, NY 14850"
+        "phone": "607-274-3548",
+        "email": "paulnicholson@ithaca.edu",
+        "office": "Gannett Center G108, Ithaca, NY 14850"
     },
     {
         "name": "Jean Hardwick",
         "role": "Professor and Chair",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/jean-hardwick.jpg.webp?itok=-9IMb0j3",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3213",
-        "email": "Email: jhardwick@ithaca.edu",
-        "office": "Office: 168 Center for Natural Sciences",
-        "specialty": "Specialty: Neuroscience",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3213",
+        "email": "jhardwick@ithaca.edu",
+        "office": "168 Center for Natural Sciences",
+        "specialty": "Neuroscience",
         "bio": {
             "generic": [
                 "BA., Smith College, Biochemistry",
@@ -477,11 +477,11 @@
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/rebecca_brady-fall-2019.jpg.webp?itok=l1lYoSI7",
-        "phone": "Phone: 607-274-3584",
-        "email": "Email: rbrady@ithaca.edu",
-        "office": "Office: 157 Center for Natural Sciences",
+        "phone": "607-274-3584",
+        "email": "rbrady@ithaca.edu",
+        "office": "157 Center for Natural Sciences",
         "specialty": [
-            "Specialty: Cell Biology",
+            "Cell Biology",
             "Developmental Biology"
         ],
         "bio": {
@@ -504,12 +504,12 @@
         "role": "Associate Professor and Coordinator of Anthropology",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-08/Lisas%20college%20photo%20%282%29_0.JPG.webp?itok=VhkoomKQ",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1384",
-        "email": "Email: lcorewyn@ithaca.edu",
-        "office": "Office: Gannett Center G132, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1384",
+        "email": "lcorewyn@ithaca.edu",
+        "office": "Gannett Center G132, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Biological anthropology",
+            "Biological anthropology",
             "Primate behavioral ecology",
             "Molecular primatology",
             "Primate conservation"
@@ -527,9 +527,9 @@
         "role": "Retired Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-11/cluett_portrait.jpg.webp?itok=nSY8d05h",
-        "email": "Email: ecluett@ithaca.edu",
+        "email": "ecluett@ithaca.edu",
         "specialty": [
-            "Specialty: Cell Biology",
+            "Cell Biology",
             "Science Education Coordinator"
         ]
     },
@@ -538,21 +538,21 @@
         "role": "Assistant Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/faculty_cortes.jpg.webp?itok=wuo2am6r",
-        "phone": "Phone: 607-274-1086",
-        "email": "Email: mcortes@ithaca.edu",
-        "office": "Office: 158 Center for Natural Sciences",
-        "specialty": "Specialty: Evolutionary Biology and Phylogeography"
+        "phone": "607-274-1086",
+        "email": "mcortes@ithaca.edu",
+        "office": "158 Center for Natural Sciences",
+        "specialty": "Evolutionary Biology and Phylogeography"
     },
     {
         "name": "David Gondek",
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/gondek-image-2_0.jpg.webp?itok=H6zUWOek",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3979",
-        "email": "Email: dgondek@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 164, Ithaca, NY 14850",
-        "specialty": "Specialty: Microbiology & Immunology",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3979",
+        "email": "dgondek@ithaca.edu",
+        "office": "Center for Natural Sciences 164, Ithaca, NY 14850",
+        "specialty": "Microbiology & Immunology",
         "bio": {
             "generic": [
                 "T/W at 3-4pm or by appointment, Zoom meetings"
@@ -564,10 +564,10 @@
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2020-10/llk-image.jpg.webp?itok=dZ3XySxh",
-        "phone": "Phone: 607-274-3986",
-        "email": "Email: lkanda@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 159, Ithaca, NY 14850",
-        "specialty": "Specialty: Animal Ecology",
+        "phone": "607-274-3986",
+        "email": "lkanda@ithaca.edu",
+        "office": "Center for Natural Sciences 159, Ithaca, NY 14850",
+        "specialty": "Animal Ecology",
         "bio": {
             "generic": [
                 "BA, Dartmouth College, Dual: Biology (Ecology and Evolution)\u00a0and Religion",
@@ -588,10 +588,10 @@
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/faculty_inada.jpg.webp?itok=Z1YsyIjj",
-        "phone": "Phone: 607-274-1274",
-        "email": "Email: minada@ithaca.edu",
-        "office": "Office: 156 Center for Natural Sciences",
-        "specialty": "Specialty: Molecular Biology",
+        "phone": "607-274-1274",
+        "email": "minada@ithaca.edu",
+        "office": "156 Center for Natural Sciences",
+        "specialty": "Molecular Biology",
         "bio": {
             "generic": [
                 "B.S. Chemistry, M.I.T.",
@@ -610,10 +610,10 @@
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/faculty_lo.jpg.webp?itok=YIwLurAD",
-        "phone": "Phone: 607-274-1181",
-        "email": "Email: twlo@ithaca.edu",
-        "office": "Office: 165 Center for Natural Sciences",
-        "specialty": "Specialty: Genetics",
+        "phone": "607-274-1181",
+        "email": "twlo@ithaca.edu",
+        "office": "165 Center for Natural Sciences",
+        "specialty": "Genetics",
         "bio": {
             "my_research_interests_lie_in_understanding_protein_signaling_specificity_and_how_developmental_processes_evolve.\u00a0_if_you_interested_in\u00a0conducting_research_in_my_lab_see_details_below:": [
                 "Student-Faculty Research Options",
@@ -627,11 +627,11 @@
         "role": "Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-03/headshot03b.jpg.webp?itok=hMvtU652",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3980",
-        "email": "Email: pmelcher@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 255, Ithaca, NY 14850",
-        "specialty": "Specialty: Plant Physiology",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3980",
+        "email": "pmelcher@ithaca.edu",
+        "office": "Center for Natural Sciences 255, Ithaca, NY 14850",
+        "specialty": "Plant Physiology",
         "bio": {
             "research_interests:": [
                 "Electrophysiology of plants",
@@ -650,11 +650,11 @@
         "role": "Associate Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-08/BrooksMiner_headshot_July2023_facultyprofile.png.webp?itok=G6aLJkY2",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3971",
-        "email": "Email: bminer@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 166, Ithaca, NY 14850",
-        "specialty": "Specialty: Evolutionary Ecology",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3971",
+        "email": "bminer@ithaca.edu",
+        "office": "Center for Natural Sciences 166, Ithaca, NY 14850",
+        "specialty": "Evolutionary Ecology",
         "bio": {
             "generic": [
                 "Degrees",
@@ -674,11 +674,11 @@
         "role": "Dana Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-09/Andy%20Smith%20%202018.JPG.webp?itok=3bltGXXb",
-        "phone": "Phone: 607-274-3975",
-        "email": "Email: asmith@ithaca.edu",
-        "office": "Office: 155  Center for Natural Sciences",
+        "phone": "607-274-3975",
+        "email": "asmith@ithaca.edu",
+        "office": "155  Center for Natural Sciences",
         "specialty": [
-            "Specialty: Animal Physiology",
+            "Animal Physiology",
             "Biomechanics"
         ]
     },
@@ -687,10 +687,10 @@
         "role": "Professor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/witherup-2020_1.jpg.webp?itok=Y4eQL4Ie",
-        "phone": "Phone: 607-274-3511",
-        "email": "Email: switherup@ithaca.edu",
-        "office": "Office: 256 Center for Natural Sciences",
-        "specialty": "Specialty: Botany/Plant Systematics and Evolution",
+        "phone": "607-274-3511",
+        "email": "switherup@ithaca.edu",
+        "office": "256 Center for Natural Sciences",
+        "specialty": "Botany/Plant Systematics and Evolution",
         "bio": {
             "degrees:": [
                 "B.A. Grinnell College, Biology",
@@ -708,11 +708,11 @@
         "role": "Associate Professor and Health Professions Advisor",
         "department": "Biology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/faculty_woods.jpg.webp?itok=X4Fe0UjK",
-        "phone": "Phone: 607-274-7052",
-        "email": "Email: iwoods@ithaca.edu",
-        "office": "Office: 160 Center for Natural Sciences",
+        "phone": "607-274-7052",
+        "email": "iwoods@ithaca.edu",
+        "office": "160 Center for Natural Sciences",
         "specialty": [
-            "Specialty: Developmental Biology",
+            "Developmental Biology",
             "Computational Biology"
         ],
         "bio": {
@@ -734,8 +734,8 @@
         "name": "Vicki Cameron",
         "role": "Professor Emerita",
         "department": "Biology",
-        "email": "Email: cameron@ithaca.edu",
-        "specialty": "Specialty: Molecular Biology",
+        "email": "cameron@ithaca.edu",
+        "specialty": "Molecular Biology",
         "bio": {
             "generic": [
                 "She was also a faculty member in the Biochemistry       program.",
@@ -747,21 +747,21 @@
         "name": "Mildred Brammer",
         "role": "Professor Emerita",
         "department": "Biology",
-        "email": "Email: mbrammer@ithaca.edu"
+        "email": "mbrammer@ithaca.edu"
     },
     {
         "name": "Lucille Schmieder",
         "role": "Professor Emerita",
         "department": "Biology",
-        "email": "Email: lschmied@ithaca.edu"
+        "email": "lschmied@ithaca.edu"
     },
     {
         "name": "Bruce Smith",
         "role": "Professor Emeritus",
         "department": "Biology",
-        "email": "Email: smithb@ithaca.edu",
+        "email": "smithb@ithaca.edu",
         "specialty": [
-            "Specialty: Ecology",
+            "Ecology",
             "Behavior",
             "and Evolution of water mites"
         ],
@@ -776,16 +776,16 @@
         "name": "Steven Thompson",
         "role": "Professor Emeritus",
         "department": "Biology",
-        "email": "Email: thompson@ithaca.edu"
+        "email": "thompson@ithaca.edu"
     },
     {
         "name": "M. Nicole Horsley",
         "role": "Associate Professor",
         "department": "Race and Ethnicity",
-        "email": "Email: mhorsley@ithaca.edu",
-        "office": "Office: Egbert Hall 345, Ithaca, NY 14850",
+        "email": "mhorsley@ithaca.edu",
+        "office": "Egbert Hall 345, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: African American and African Diaspora Studies",
+            "African American and African Diaspora Studies",
             "Black Feminism",
             "Black Queer Theory",
             "Black Music Videos",
@@ -810,11 +810,11 @@
         "role": "Professor",
         "department": "Chemistry",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-02/mhaaf.jpg.webp?itok=vxo25Fyy",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7978",
-        "email": "Email: mhaaf@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 363, Ithaca, NY 14850",
-        "specialty": "Specialty: Organic Chemistry",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7978",
+        "email": "mhaaf@ithaca.edu",
+        "office": "Center for Natural Sciences 363, Ithaca, NY 14850",
+        "specialty": "Organic Chemistry",
         "bio": {
             "generic": [
                 "Research in Organic Chemistry",
@@ -845,12 +845,12 @@
         "role": "Assistant Professor",
         "department": "Chemistry",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-04/craig_0.jpg.webp?itok=gbKqiAxH",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7752",
-        "email": "Email: rcraig2@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 358",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7752",
+        "email": "rcraig2@ithaca.edu",
+        "office": "Center for Natural Sciences 358",
         "specialty": [
-            "Specialty: Physical Chemistry",
+            "Physical Chemistry",
             "Environmental Chemistry"
         ],
         "bio": {
@@ -864,10 +864,10 @@
         "name": "Akiko Fillinger",
         "role": "Professor",
         "department": "Chemistry",
-        "phone": "Phone: 607-274-1854",
-        "email": "Email: afillinger@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 367, Ithaca, NY 14850",
-        "specialty": "Specialty: Analytical chemistry (alternative energy & fuels)",
+        "phone": "607-274-1854",
+        "email": "afillinger@ithaca.edu",
+        "office": "Center for Natural Sciences 367, Ithaca, NY 14850",
+        "specialty": "Analytical chemistry (alternative energy & fuels)",
         "bio": {
             "generic": [
                 "Fall 2017",
@@ -906,11 +906,11 @@
         "name": "Janet Hunting",
         "role": "Associate Professor",
         "department": "Chemistry",
-        "phone": "Phone: 607-274-1475",
-        "email": "Email: jhunting@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 357, Ithaca, NY 14850",
+        "phone": "607-274-1475",
+        "email": "jhunting@ithaca.edu",
+        "office": "Center for Natural Sciences 357, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Solid State Chemistry",
+            "Solid State Chemistry",
             "Materials Chemistry",
             "Inorganic Chemistry"
         ],
@@ -966,10 +966,10 @@
         "role": "Professor",
         "department": "Chemistry",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-12/me_lab_0.jpg.webp?itok=s04b84tI",
-        "phone": "Phone: 607-274-3473",
-        "email": "Email: alarsen@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 359, Ithaca, NY 14850",
-        "specialty": "Specialty: Inorganic/Organometallic Chemistry/Ionic liquids",
+        "phone": "607-274-3473",
+        "email": "alarsen@ithaca.edu",
+        "office": "Center for Natural Sciences 359, Ithaca, NY 14850",
+        "specialty": "Inorganic/Organometallic Chemistry/Ionic liquids",
         "bio": {
             "generic": [
                 "I graduated from Moscow State University (Russia) with B.S./M.S. degree in Physical Organic Chemistry. My Masters thesis entailed\u00a0a combination of synthetic studies and computational analyses of the conformational behavior of the biologically relevant di-aza- bicyclo-3.3.1-nonanes. I moved across the globe - to Utah State University where I earned my PhD. degree in organometallic chemistry. My dissertation was titled \"Kinetic and Thermodynamic studies of the reactive ruthenium and rhodium cyclopentadienyl nitrosyl comlexes\".\u00a0 I completed two sets of \u00a0postdoctoral studies. While working with Professor Chris Reed at the University of Southern California (now at UC-Riverside) I got introduced to the wonders of carborane anion (struture pictured above). At the University of Washington with professor Jim Mayer (now at Yale) I learned about powerful ways of studying reaction mechanisms. I also served as a visiting Assistant Professor at Seattle University. In 2003 I joined Ithaca College Department of Chemistry and Biochemistry in the position of Assistant Professor.\u00a0\u00a0 I got tenured and promoted to Associated Professor position in 2009 and took a sabbatical leave (in UK and Argentina) in 2010/2011 academic year. In 2014-2017 I served as a Chair of the Chemistry Department.",
@@ -1008,10 +1008,10 @@
         "name": "DJ Robinson",
         "role": "Assistant Professor",
         "department": "Chemistry",
-        "phone": "Phone: 607-274-5121",
-        "email": "Email: djrobinson@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 356, Ithaca, NY 14850",
-        "specialty": "Specialty: Organic Synthesis",
+        "phone": "607-274-5121",
+        "email": "djrobinson@ithaca.edu",
+        "office": "Center for Natural Sciences 356, Ithaca, NY 14850",
+        "specialty": "Organic Synthesis",
         "bio": {
             "generic": [
                 "Synthesis of biologically active natural products and their analogs",
@@ -1029,9 +1029,9 @@
         "role": "Associate Professor and Chair",
         "department": "Chemistry",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/2018-0829-torelli-upright-lab-photo-cropped.jpg.webp?itok=DytBF6qm",
-        "phone": "Phone: 607-274-3576",
-        "email": "Email: atorelli@ithaca.edu",
-        "office": "Office: 365 Center for Natural Sciences",
+        "phone": "607-274-3576",
+        "email": "atorelli@ithaca.edu",
+        "office": "365 Center for Natural Sciences",
         "bio": {
             "generic": [
                 "My interests in teaching and research overlap heavily and span several areas that have attracted students preparing for graduate or medical schools, students who are themselves interested in become chemistry educators, and also students interested in environmental issues such as water quality surveillance."
@@ -1043,10 +1043,10 @@
         "role": "Associate Professor",
         "department": "Chemistry",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/scott3.jpg.webp?itok=QkNX1pH4",
-        "phone": "Phone: 607-274-7977",
-        "email": "Email: sulrich@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 352A, Ithaca, NY 14850",
-        "specialty": "Specialty: Medicinal Chemistry",
+        "phone": "607-274-7977",
+        "email": "sulrich@ithaca.edu",
+        "office": "Center for Natural Sciences 352A, Ithaca, NY 14850",
+        "specialty": "Medicinal Chemistry",
         "bio": {
             "generic": [
                 "Courses taught: Organic Chemistry I and II, Biochemistry, Medicinal Chemistry",
@@ -1071,11 +1071,11 @@
         "role": "Associate Professor and Chair",
         "department": "Computer Science",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-07/ali_0.png.webp?itok=qenql3QN",
-        "phone": "Phone: 607-274-1764",
-        "email": "Email: aerkan@ithaca.edu",
-        "office": "Office: Williams Hall 401C, Ithaca, NY 14850",
+        "phone": "607-274-1764",
+        "email": "aerkan@ithaca.edu",
+        "office": "Williams Hall 401C, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Computer networks",
+            "Computer networks",
             "algorithms",
             "databases",
             "geographic information systems",
@@ -1136,11 +1136,11 @@
         "name": "Toby Dragon",
         "role": "Associate Professor and Assesment Coordinator",
         "department": "Computer Science",
-        "phone": "Phone: 607-274-3583",
-        "email": "Email: tdragon@ithaca.edu",
-        "office": "Office: Williams Hall 401B, Ithaca, NY 14850",
+        "phone": "607-274-3583",
+        "email": "tdragon@ithaca.edu",
+        "office": "Williams Hall 401B, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Artificial Intelligence (AI)",
+            "Artificial Intelligence (AI)",
             "Intelligent Tutoring Systems (ITS)",
             "Computer Supported Collaborative Learning (CSCL)"
         ],
@@ -1171,12 +1171,12 @@
         "role": "Professor",
         "department": "Computer Science",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/barr_320_400.jpg.webp?itok=Dig094i2",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3579",
-        "email": "Email: barr@ithaca.edu",
-        "office": "Office: Williams Hall 401E, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3579",
+        "email": "barr@ithaca.edu",
+        "office": "Williams Hall 401E, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Computer Science Pedagogy",
+            "Computer Science Pedagogy",
             "Global Software Engineering",
             "Programming for Social Good",
             "Mobile Dev (iOS",
@@ -1195,11 +1195,11 @@
         "name": "Adam Lee",
         "role": "Instructor",
         "department": "Computer Science",
-        "phone": "Phone: 607-274-3634",
-        "email": "Email: alee@ithaca.edu",
-        "office": "Office: Williams Hall 321C, Ithaca, NY 14850",
+        "phone": "607-274-3634",
+        "email": "alee@ithaca.edu",
+        "office": "Williams Hall 321C, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Microsoft Excel",
+            "Microsoft Excel",
             "Microsoft Access"
         ],
         "bio": {
@@ -1214,9 +1214,9 @@
         "name": "Sharon Stansfield",
         "role": "Retired Associate Professor",
         "department": "Computer Science",
-        "email": "Email: sstansfield@ithaca.edu",
+        "email": "sstansfield@ithaca.edu",
         "specialty": [
-            "Specialty: Virtual Reality",
+            "Virtual Reality",
             "Robotics"
         ],
         "bio": {
@@ -1232,12 +1232,12 @@
         "role": "Professor",
         "department": "Computer Science",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-10/Headshot_Square.png.webp?itok=hEs-JwIX",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-5743",
-        "email": "Email: dturnbull@ithaca.edu",
-        "office": "Office: Williams Hall 321 E, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-5743",
+        "email": "dturnbull@ithaca.edu",
+        "office": "Williams Hall 321 E, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Music Information Retrieval",
+            "Music Information Retrieval",
             "Computer Audition",
             "Machine Learning",
             "and Human Computation"
@@ -1253,25 +1253,25 @@
         "name": "Dorothy Buerk",
         "role": "Professor Emerita",
         "department": "Mathematics and Computer Science",
-        "email": "Email: buerk@ithaca.edu"
+        "email": "buerk@ithaca.edu"
     },
     {
         "name": "Diane Schwartz",
         "role": "Professor Emerita",
         "department": "Mathematics and Computer Science",
-        "email": "Email: schwartz@ithaca.edu"
+        "email": "schwartz@ithaca.edu"
     },
     {
         "name": "Shaianne Osterreich",
         "role": "Professor and Chair",
         "department": "Economics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/img_7214-2.jpg.webp?itok=Ec2YVpg7",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3552",
-        "email": "Email: sosterreich@ithaca.edu",
-        "office": "Office: Muller Faculty Center 420, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3552",
+        "email": "sosterreich@ithaca.edu",
+        "office": "Muller Faculty Center 420, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Globalization",
+            "Globalization",
             "Feminist Economics",
             "Heterodox Economics",
             "Indonesia",
@@ -1292,11 +1292,11 @@
         "role": "Professor",
         "department": "Economics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/kacapyr6a.jpg.webp?itok=g1zhRAbm",
-        "phone": "Phone: 607-274-3274",
-        "email": "Email: kacapyr@ithaca.edu",
-        "office": "Office: Muller Faculty Center 426, Ithaca, NY 14850",
+        "phone": "607-274-3274",
+        "email": "kacapyr@ithaca.edu",
+        "office": "Muller Faculty Center 426, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Macroeconomics",
+            "Macroeconomics",
             "Econometrics",
             "Forecasting"
         ],
@@ -1312,11 +1312,11 @@
         "role": "Associate Professor",
         "department": "Economics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-04/ekaletski_1_0.jpg.webp?itok=qdjodVIR",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3259",
-        "email": "Email: ekaletski@ithaca.edu",
-        "office": "Office: 421 Muller Faculty Center",
-        "specialty": "Specialty: Labor and Development Economics",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3259",
+        "email": "ekaletski@ithaca.edu",
+        "office": "421 Muller Faculty Center",
+        "specialty": "Labor and Development Economics",
         "bio": {
             "generic": [
                 "Prior to joining the faculty at IC, I graduated from the University of Connecticut in 2014 with a PhD in Economics. My research and teaching interests are at the intersection of Labor Economics and Development Economics and therefore span a wide range of issues.",
@@ -1330,11 +1330,11 @@
         "role": "Associate Professor",
         "department": "Economics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-11/headshot-2019_0.jpg.webp?itok=VwcYeYOu",
-        "phone": "Phone: 607-274-3609",
-        "email": "Email: kolberg@ithaca.edu",
-        "office": "Office: Muller Faculty Center 430, Ithaca, NY 14850",
+        "phone": "607-274-3609",
+        "email": "kolberg@ithaca.edu",
+        "office": "Muller Faculty Center 430, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: MicroEconomics",
+            "MicroEconomics",
             "Natural Resource and Environmental Economics",
             "Experimental Economics"
         ],
@@ -1349,11 +1349,11 @@
         "role": "Dean for Student Success and Retention",
         "department": "Center for Student Success",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-12/Cropped%20headshot.jpg.webp?itok=QtSWJ5ce",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1531",
-        "email": "Email: ebleicher@ithaca.edu",
-        "office": "Office: 114 Muller Faculty Center",
-        "specialty": "Specialty: First-year Student Experience; Transition to College; Liberal Education; Critical University Studies; 19C British Literatures and Cultures",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1531",
+        "email": "ebleicher@ithaca.edu",
+        "office": "114 Muller Faculty Center",
+        "specialty": "First-year Student Experience; Transition to College; Liberal Education; Critical University Studies; 19C British Literatures and Cultures",
         "bio": {
             "generic": [
                 "Professor of English, 2021"
@@ -1404,7 +1404,7 @@
         "name": "Sara Levy",
         "role": "Associate Professor and Chairperson",
         "department": "Department of Education",
-        "email": "Email: slevy1@ithaca.edu",
+        "email": "slevy1@ithaca.edu",
         "bio": {
             "generic": []
         }
@@ -1414,11 +1414,11 @@
         "role": "Associate Professor and Graduate Program Chair",
         "department": "Department of Education",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-08/Peter%20Profile%20Picture_0.jpeg.webp?itok=ats6DgmL",
-        "phone": "Phone: 607-274-1076",
-        "email": "Email: pmartin@ithaca.edu",
-        "office": "Office: Phillips Hall 194-C, Ithaca, NY 14850",
+        "phone": "607-274-1076",
+        "email": "pmartin@ithaca.edu",
+        "office": "Phillips Hall 194-C, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Inclusion Special Education",
+            "Inclusion Special Education",
             "Second Language Acquisition and Bilingual Education",
             "Social Emotional Learning for Teachers"
         ],
@@ -1434,11 +1434,11 @@
         "role": "Associate Professor",
         "department": "Department of Education",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2020-12/img_1561.jpg.webp?itok=1U6Mz083",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jcopenhaverjohnson@ithaca.edu",
-        "office": "Office: 194P Phillips Hall Annex",
+        "school": "School of Humanities and Sciences",
+        "email": "jcopenhaverjohnson@ithaca.edu",
+        "office": "194P Phillips Hall Annex",
         "specialty": [
-            "Specialty: Language and Literacy",
+            "Language and Literacy",
             "Social Contexts of Schooling",
             "Children's Inquiry About Race",
             "Qualitative and Practitioner Research"
@@ -1478,12 +1478,12 @@
         "role": "Assistant Professor and Chair of CSCRE",
         "department": "Department of Education",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/seb-greece-2.png.webp?itok=95nA_imL",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3823",
-        "email": "Email: seversley@ithaca.edu",
-        "office": "Office: Job Hall 203, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3823",
+        "email": "seversley@ithaca.edu",
+        "office": "Job Hall 203, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Educational policy",
+            "Educational policy",
             "pedagogy",
             "and social change"
         ],
@@ -1502,11 +1502,11 @@
         "role": "Associate Professor",
         "department": "Department of Education",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/faculty-pic-2.jpg.webp?itok=hfgm2ALR",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: efulmer@ithaca.edu",
-        "office": "Office: Phillips Hall 194G, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "efulmer@ithaca.edu",
+        "office": "Phillips Hall 194G, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Disciplinary (Content) Literacies",
+            "Disciplinary (Content) Literacies",
             "Antiracist Pedagogies",
             "Practitioner Inquiry",
             "Sociocultural Literacies"
@@ -1522,11 +1522,11 @@
         "name": "Nia Nunn",
         "role": "Associate Professor",
         "department": "Department of Education",
-        "phone": "Phone: 607-274-5164",
-        "email": "Email: nnunn@ithaca.edu",
-        "office": "Office: Phillips Hall 194O, Ithaca, NY 14850",
+        "phone": "607-274-5164",
+        "email": "nnunn@ithaca.edu",
+        "office": "Phillips Hall 194O, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Black Girl Empowerment ~ Anti-Racist Feminist Pedagogy",
+            "Black Girl Empowerment ~ Anti-Racist Feminist Pedagogy",
             "Elementary Classroom Management/Community Development",
             "Prevention",
             "and Intervention"
@@ -1540,8 +1540,8 @@
         "role": "Assistant Professor",
         "department": "Department of Education",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/thumbnail_img_3286.jpg.webp?itok=79CES-Qp",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: sli3@ithaca.edu",
+        "school": "School of Humanities and Sciences",
+        "email": "sli3@ithaca.edu",
         "bio": {
             "generic": [
                 "Educating culturally and linguistically diverse learners,\u00a0teacher education, TESOL, bilingual education, and rural education"
@@ -1552,25 +1552,25 @@
         "name": "Jeff Perry",
         "role": "Lecturer",
         "department": "Department of Education",
-        "email": "Email: jperry@ithaca.edu",
-        "office": "Office: Muller Faculty Center, Ithaca, NY 14850"
+        "email": "jperry@ithaca.edu",
+        "office": "Muller Faculty Center, Ithaca, NY 14850"
     },
     {
         "name": "Jeff Claus",
         "role": "Professor Emeritus",
         "department": "Department of Education",
-        "email": "Email: claus@ithaca.edu"
+        "email": "claus@ithaca.edu"
     },
     {
         "name": "Chris Holmes",
         "role": "Associate Professor and Chair",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/faculty-page-photo.jpg.webp?itok=1__BF8Or",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 401-222-0391",
-        "email": "Email: cholmes@ithaca.edu",
-        "office": "Office: Muller Faculty Center 318, Ithaca, NY 14850",
-        "specialty": "Specialty: Postcolonial and Anglophone Literature; Theories of Translation and World Literature",
+        "school": "School of Humanities and Sciences",
+        "phone": "401-222-0391",
+        "email": "cholmes@ithaca.edu",
+        "office": "Muller Faculty Center 318, Ithaca, NY 14850",
+        "specialty": "Postcolonial and Anglophone Literature; Theories of Translation and World Literature",
         "bio": {
             "generic": [
                 "Ph.D. Brown University (2012)",
@@ -1620,10 +1620,10 @@
         "role": "Associate Professor",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/h-s-headshots-1438.jpg.webp?itok=7Zq_EJOx",
-        "email": "Email: dadams@ithaca.edu",
-        "office": "Office: Muller Faculty Center, Ithaca, NY 14850",
+        "email": "dadams@ithaca.edu",
+        "office": "Muller Faculty Center, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: 20th-21st Century African American Literature",
+            "20th-21st Century African American Literature",
             "Blackness",
             "Feminism",
             "and Intersectionality"
@@ -1663,9 +1663,9 @@
         "role": "Associate Professor and Women's Gender Sexuality Studies Coordinator",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/img_0494.jpg.webp?itok=k6nZ0N0w",
-        "email": "Email: kbartoszynska@ithaca.edu",
-        "office": "Office: Muller Faculty Center 327, Ithaca, NY 14850",
-        "specialty": "Specialty: Theories of the Novel; 18th Century Literature; Gender and Sexuality",
+        "email": "kbartoszynska@ithaca.edu",
+        "office": "Muller Faculty Center 327, Ithaca, NY 14850",
+        "specialty": "Theories of the Novel; 18th Century Literature; Gender and Sexuality",
         "bio": {
             "generic": [
                 "PhD University of Chicago, 2011",
@@ -1706,10 +1706,10 @@
         "role": "Associate Professor",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/img_0540.JPG.webp?itok=rbAJj8Oo",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: abecker7@ithaca.edu",
-        "office": "Office: Muller Faculty Center 330, Ithaca, NY 14850",
-        "specialty": "Specialty: Old and Middle English literature; medieval British multilingualism; political ecology; climate and literature; labor; history of reading and the book; literacy; history of English",
+        "school": "School of Humanities and Sciences",
+        "email": "abecker7@ithaca.edu",
+        "office": "Muller Faculty Center 330, Ithaca, NY 14850",
+        "specialty": "Old and Middle English literature; medieval British multilingualism; political ecology; climate and literature; labor; history of reading and the book; literacy; history of English",
         "bio": {
             "generic": [
                 "My research traces the relationships among reading, labor, and the environment in medieval Britain; I teach medieval literature with a focus on gender, the human/nonhuman divide, material texts, access, and under-studied voices. I also teach poetry and the History and Structure of the English Language. I came to Ithaca College in 2018 from the University of Chicago, where I was a Collegiate Assistant Professor of the Humanities and a Harper-Schmitt Fellow in the Society of Fellows in the Liberal Arts.",
@@ -1746,10 +1746,10 @@
         "name": "Dan Breen",
         "role": "Associate Professor and Global Premodern Studies Coordinator",
         "department": "Literatures in English",
-        "phone": "Phone: 607-274-1014",
-        "email": "Email: dbreen@ithaca.edu",
-        "office": "Office: Muller Faculty Center 302, Ithaca, NY 14850",
-        "specialty": "Specialty: Late Medieval and Renaissance Literature",
+        "phone": "607-274-1014",
+        "email": "dbreen@ithaca.edu",
+        "office": "Muller Faculty Center 302, Ithaca, NY 14850",
+        "specialty": "Late Medieval and Renaissance Literature",
         "bio": {
             "generic": [
                 "Ph.D. Duke University (2006)",
@@ -1778,10 +1778,10 @@
         "role": "Professor",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/headshot.sept2024.2.jpg.webp?itok=TiOzXeJs",
-        "email": "Email: eganh@ithaca.edu",
-        "office": "Office: Muller Faculty Center 306, Ithaca, NY 14850",
+        "email": "eganh@ithaca.edu",
+        "office": "Muller Faculty Center 306, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: American literature",
+            "American literature",
             "especially 19th century prose and poetry"
         ],
         "bio": {
@@ -1800,9 +1800,9 @@
         "name": "Paul Hansom",
         "role": "Assistant Professor",
         "department": "Literatures in English",
-        "phone": "Phone: 607-274-7310",
-        "email": "Email: phansom@ithaca.edu",
-        "office": "Office: Muller Faculty Center, Ithaca, NY 14850",
+        "phone": "607-274-7310",
+        "email": "phansom@ithaca.edu",
+        "office": "Muller Faculty Center, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "PH.D.\u00a0\u00a0 English. University of Southern California (2000).",
@@ -1839,9 +1839,9 @@
         "name": "Katharine Kittredge",
         "role": "Professor",
         "department": "Literatures in English",
-        "phone": "Phone: 607-274-1575",
-        "email": "Email: kkittredge@ithaca.edu",
-        "office": "Office: Muller Faculty Center 317, Ithaca, NY 14850",
+        "phone": "607-274-1575",
+        "email": "kkittredge@ithaca.edu",
+        "office": "Muller Faculty Center 317, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "Areas of Interest:\u00a0 Eighteenth Century British Literature, Children's Literature, Science Fiction, Gender Studies"
@@ -1885,8 +1885,8 @@
         "name": "David Kramer",
         "role": "Retired Assistant Professor",
         "department": "Literatures in English",
-        "email": "Email: dkramer@ithaca.edu",
-        "specialty": "Specialty: Renaissance; Drama; Shakespeare; Contemporary Novel; Origins of the Novel",
+        "email": "dkramer@ithaca.edu",
+        "specialty": "Renaissance; Drama; Shakespeare; Contemporary Novel; Origins of the Novel",
         "bio": {
             "generic": [
                 "",
@@ -1907,11 +1907,11 @@
         "name": "Christopher Matusiak",
         "role": "Associate Professor",
         "department": "Literatures in English",
-        "phone": "Phone: 607-274-7371",
-        "email": "Email: cmatusiak@ithaca.edu",
-        "office": "Office: Muller Faculty Center 326, Ithaca, NY 14850",
+        "phone": "607-274-7371",
+        "email": "cmatusiak@ithaca.edu",
+        "office": "Muller Faculty Center 326, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Shakespeare",
+            "Shakespeare",
             "Early English Theater History",
             "Renaissance Literature"
         ],
@@ -1953,10 +1953,10 @@
         "role": "Associate Professor",
         "department": "Literatures in English",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-08/jen-3.jpg.webp?itok=uDJoZIYK",
-        "phone": "Phone: 607-274-7056",
-        "email": "Email: jspitzer@ithaca.edu",
-        "office": "Office: Muller Faculty Center 305, Ithaca, NY 14850",
-        "specialty": "Specialty: Late 19th and 20th-Century Literature; Transatlantic Modernism; Gender and Sexuality",
+        "phone": "607-274-7056",
+        "email": "jspitzer@ithaca.edu",
+        "office": "Muller Faculty Center 305, Ithaca, NY 14850",
+        "specialty": "Late 19th and 20th-Century Literature; Transatlantic Modernism; Gender and Sexuality",
         "bio": {
             "generic": [
                 "I write and teach at the intersection of transatlantic modernism, psychoanalysis, modern spiritualism, the medical humanities, and gender and sexuality. Before coming to Ithaca College in 2013, I taught at New York University, where I completed my Ph.D., and at Harvard University, as a Lecturer in History and Literature.\u00a0My book,\u00a0Secret Sharers:\u00a0The Intimate Rivalries of Modernism and\u00a0Psychoanalysis\u00a0(Fordham UP, 2023),\u00a0traces a genealogy of secret sharing between literary modernism and psychoanalysis, focusing on the productive entanglements and intense competitive rivalries that helped shape Anglo-American modernism as a field.\u00a0I recently co-edited with Shirley Wong a special issue of Modern Language Quarterly\u00a0on the literary \"detail.\" One of our goals was to expand the horizons of the detail,\u00a0which has been historically linked to nineteenth-century literature and\u00a0realism.\u00a0The articles in our special issue\u00a0investigate the mechanisms of literary detail in colonial ethnography, contemporary Asian American fiction, British modernist novels, and postcolonial memoir.",
@@ -1996,8 +1996,8 @@
         "name": "James Swafford",
         "role": "Professor Emeritus",
         "department": "English",
-        "email": "Email: swafford@ithaca.edu",
-        "specialty": "Specialty: Nineteenth-century English literature",
+        "email": "swafford@ithaca.edu",
+        "specialty": "Nineteenth-century English literature",
         "bio": {
             "generic": [
                 "",
@@ -2017,11 +2017,11 @@
         "role": "ICNL Reserve Manager and Professor",
         "department": "Department of the Environment",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-07/Web%20Photo%202023%20a_0.jpg.webp?itok=82Umldkw",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jbrenner@ithaca.edu",
-        "office": "Office: Center for Natural Sciences (CNS) | Room 258",
+        "school": "School of Humanities and Sciences",
+        "email": "jbrenner@ithaca.edu",
+        "office": "Center for Natural Sciences (CNS) | Room 258",
         "specialty": [
-            "Specialty: Geography",
+            "Geography",
             "Land Use",
             "Forest",
             "Political Ecology"
@@ -2054,11 +2054,11 @@
         "role": "Professor and Chair",
         "department": "Department of the Environment",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-05/20240504_182612_0.jpg.webp?itok=nZApLdOf",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1066",
-        "email": "Email: sallen@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 253, Ithaca, NY 14850",
-        "specialty": "Specialty: Environmental Toxicology",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1066",
+        "email": "sallen@ithaca.edu",
+        "office": "Center for Natural Sciences 253, Ithaca, NY 14850",
+        "specialty": "Environmental Toxicology",
         "bio": {
             "generic": [
                 "My primary area of\u00a0research\u00a0is environmental toxicology,\u00a0which is the study of how\u00a0pollutants affect\u00a0ecological systems.\u00a0\u00a0Although my Ph.D. research focused mainly on long-range transport of air pollutants into remote areas, I now do primarily locally-based research on pollutants.\u00a0\u00a0 You can learn more about my research on the IC EcoTox Lab webpage!",
@@ -2081,11 +2081,11 @@
         "role": "Professor",
         "department": "Department of the Environment",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-10/Jason%20Hamilton%20head%20shot_2.jpg.webp?itok=t5EIidWs",
-        "phone": "Phone: 607-274-1439",
-        "email": "Email: jhamilton@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 331, Ithaca, NY 14850",
+        "phone": "607-274-1439",
+        "email": "jhamilton@ithaca.edu",
+        "office": "Center for Natural Sciences 331, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Education for Sustainability",
+            "Education for Sustainability",
             "Integrative Education",
             "Non-Timber Forest Products",
             "Plant  Ecophysiology",
@@ -2106,12 +2106,12 @@
         "role": "Professor",
         "department": "History",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/stonehenge.jpg.webp?itok=tkkggH0K",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1290",
-        "email": "Email: mismith@ithaca.edu",
-        "office": "Office: Muller Faculty Center 320, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1290",
+        "email": "mismith@ithaca.edu",
+        "office": "Muller Faculty Center 320, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Environmental History",
+            "Environmental History",
             "Environmental Humanities",
             "U.S. History"
         ],
@@ -2128,9 +2128,9 @@
         "name": "Anne Stork",
         "role": "Assistant Professor",
         "department": "Department of the Environment",
-        "phone": "Phone: 607-274-3575",
-        "email": "Email: astork@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 157A, Ithaca, NY 14850",
+        "phone": "607-274-3575",
+        "email": "astork@ithaca.edu",
+        "office": "Center for Natural Sciences 157A, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "",
@@ -2145,11 +2145,11 @@
         "role": "Associate Professor",
         "department": "Department of the Environment",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/profile.jpg.webp?itok=c3XYkcKo",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: pturkon@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 257, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "pturkon@ithaca.edu",
+        "office": "Center for Natural Sciences 257, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: dendrochronology",
+            "dendrochronology",
             "aquaponics",
             "food systems",
             "paleoethnobotany",
@@ -2180,11 +2180,11 @@
         "name": "Matt Klemm",
         "role": "Associate Professor and Chair and Global PRemodern Studies Minor Coordinator",
         "department": "History",
-        "phone": "Phone: 607-274-1306",
-        "email": "Email: mklemm@ithaca.edu",
-        "office": "Office: Muller Faculty Center 405, Ithaca, NY 14850",
+        "phone": "607-274-1306",
+        "email": "mklemm@ithaca.edu",
+        "office": "Muller Faculty Center 405, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Medieval and Ancient History",
+            "Medieval and Ancient History",
             "Medieval Intellectual History",
             "History of Science and Medicine"
         ],
@@ -2199,11 +2199,11 @@
         "role": "Professor and Latin American Studies Coordinator",
         "department": "History",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-04/ablard-image.jpg.webp?itok=PtBDb3qv",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3558",
-        "email": "Email: jablard@ithaca.edu",
-        "office": "Office: Muller Faculty Center 403, Ithaca, NY 14850",
-        "specialty": "Specialty: Latin American History",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3558",
+        "email": "jablard@ithaca.edu",
+        "office": "Muller Faculty Center 403, Ithaca, NY 14850",
+        "specialty": "Latin American History",
         "bio": {
             "generic": [
                 "I am a historian of Latin America and the\u00a0Caribbean. In addition to teaching general\u00a0surveys,\u00a0 I\u00a0also offer courses\u00a0on\u00a0public\u00a0health, revolution and counterrevolution, literature and dictatorship, conspiracy theories, and\u00a0commodities.\u00a0\u200bOne of the core ideas of all of my classes is that we cannot understand the United States without understanding Latin America and the Caribbean. And the histories of Latin America and the Caribbean should be viewed within wider global narratives. Students often remark that Latin America and the Caribbean barely exists in high school history classes. The region is rarely mentioned in U.S. courses and gets short shrift in world history courses. I hope that my courses can offer a corrective to these deficits.",
@@ -2230,11 +2230,11 @@
         "name": "Karin Breuer",
         "role": "Associate Professor",
         "department": "History",
-        "phone": "Phone: 607-274-1489",
-        "email": "Email: kbreuer@ithaca.edu",
-        "office": "Office: Muller Faculty Center 418, Ithaca, NY 14850",
+        "phone": "607-274-1489",
+        "email": "kbreuer@ithaca.edu",
+        "office": "Muller Faculty Center 418, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Modern Europe",
+            "Modern Europe",
             "Germany"
         ],
         "bio": {
@@ -2248,12 +2248,12 @@
         "role": "Associate Professor",
         "department": "History",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/picture-006.jpg.webp?itok=v0pW_qEz",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-5798",
-        "email": "Email: jfreitag@ithaca.edu",
-        "office": "Office: Muller Faculty Center 423, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-5798",
+        "email": "jfreitag@ithaca.edu",
+        "office": "Muller Faculty Center 423, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: South Asia",
+            "South Asia",
             "Middle East",
             "British Empire"
         ],
@@ -2272,11 +2272,11 @@
         "role": "Professor and Legal Studies Coordinator",
         "department": "History",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-06/trottiheadshotuncentered.png.webp?itok=CeshDpfW",
-        "phone": "Phone: 607-274-1591",
-        "email": "Email: mtrotti@ithaca.edu",
-        "office": "Office: Muller Faculty Center 414, Ithaca, NY 14850",
+        "phone": "607-274-1591",
+        "email": "mtrotti@ithaca.edu",
+        "office": "Muller Faculty Center 414, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: United States",
+            "United States",
             "Social and Cultural History"
         ],
         "bio": {
@@ -2293,11 +2293,11 @@
         "name": "Zenon Wasyliw",
         "role": "Professor",
         "department": "History",
-        "phone": "Phone: 607-274-1587",
-        "email": "Email: wasyliw@ithaca.edu",
-        "office": "Office: Muller Faculty Center 427, Ithaca, NY 14850",
+        "phone": "607-274-1587",
+        "email": "wasyliw@ithaca.edu",
+        "office": "Muller Faculty Center 427, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: USSR",
+            "USSR",
             "East Central Europe",
             "Russia",
             "Global History; Social StudiesTeacher Education"
@@ -2307,13 +2307,13 @@
         "name": "Jules Benjamin",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: benjamin@ithaca.edu"
+        "email": "benjamin@ithaca.edu"
     },
     {
         "name": "Richard W. Brown",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: brown@ithaca.edu",
+        "email": "brown@ithaca.edu",
         "bio": {
             "generic": []
         }
@@ -2322,26 +2322,26 @@
         "name": "Paul McBride",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: mcbride@ithaca.edu"
+        "email": "mcbride@ithaca.edu"
     },
     {
         "name": "David McKeith",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: mckeith@ithaca.edu"
+        "email": "mckeith@ithaca.edu"
     },
     {
         "name": "Jan Saltzgaber",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: jsaltzga@ithaca.edu"
+        "email": "jsaltzga@ithaca.edu"
     },
     {
         "name": "Joseph Tempesta",
         "role": "Professor Emeritus",
         "department": "History",
-        "email": "Email: jtempest@ithaca.edu",
-        "specialty": "Specialty: Renaissance-Reformation History",
+        "email": "jtempest@ithaca.edu",
+        "specialty": "Renaissance-Reformation History",
         "bio": {
             "generic": []
         }
@@ -2351,12 +2351,12 @@
         "role": "Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-04/Pfaff-Headshot-New.png.webp?itok=AlY_VNBZ",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7066",
-        "email": "Email: tpfaff@ithaca.edu",
-        "office": "Office: Williams Hall 208, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7066",
+        "email": "tpfaff@ithaca.edu",
+        "office": "Williams Hall 208, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Data Science",
+            "Data Science",
             "Sustainability",
             "Applied Math",
             "Probability & Statistics"
@@ -2376,7 +2376,7 @@
         "name": "James Conklin",
         "role": "Retired Associate Professor",
         "department": "Mathematics",
-        "email": "Email: conklin@ithaca.edu",
+        "email": "conklin@ithaca.edu",
         "bio": {
             "generic": [
                 "Under Construction"
@@ -2388,12 +2388,12 @@
         "role": "Associate Professor and Chair",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/headshot2020.jpeg.webp?itok=5ce9EFUt",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3460",
-        "email": "Email: tgalanthay@ithaca.edu",
-        "office": "Office: 212C Williams Hall",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3460",
+        "email": "tgalanthay@ithaca.edu",
+        "office": "212C Williams Hall",
         "specialty": [
-            "Specialty: Mathematical Ecology",
+            "Mathematical Ecology",
             "Mathematical Modeling",
             "Dynamical Systems"
         ],
@@ -2409,22 +2409,22 @@
         "role": "Assistant Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/joash-pic.png.webp?itok=33A5M9hP",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jgeteregechi@ithaca.edu",
-        "office": "Office: Williams Hall 317E, Ithaca, NY 14850",
-        "specialty": "Specialty: Mathematics Education"
+        "school": "School of Humanities and Sciences",
+        "email": "jgeteregechi@ithaca.edu",
+        "office": "Williams Hall 317E, Ithaca, NY 14850",
+        "specialty": "Mathematics Education"
     },
     {
         "name": "Peter Maceli",
         "role": "Assistant Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/maceli_1.jpg.webp?itok=zKLER-Mz",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7905",
-        "email": "Email: pmaceli@ithaca.edu",
-        "office": "Office: Williams Hall 311B, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7905",
+        "email": "pmaceli@ithaca.edu",
+        "office": "Williams Hall 311B, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Graph theory",
+            "Graph theory",
             "algorithms",
             "operations research",
             "and data science."
@@ -2440,11 +2440,11 @@
         "role": "Associate Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-02/headshot.jpg.webp?itok=oFEucUgD",
-        "phone": "Phone: 607-274-3355",
-        "email": "Email: mmartinez@ithaca.edu",
-        "office": "Office: Williams Hall 311A, Ithaca, NY 14850",
+        "phone": "607-274-3355",
+        "email": "mmartinez@ithaca.edu",
+        "office": "Williams Hall 311A, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Enumerative Combinatorics",
+            "Enumerative Combinatorics",
             "Permutation Patterns"
         ],
         "bio": {
@@ -2459,10 +2459,10 @@
         "role": "Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-02/professional-photo2_0.jpg.webp?itok=iFkoZAfQ",
-        "phone": "Phone: 607-274-1568",
-        "email": "Email: moore@ithaca.edu",
-        "office": "Office: Williams Hall 402E, Ithaca, NY 14850",
-        "specialty": "Specialty: Geometry and Topology",
+        "phone": "607-274-1568",
+        "email": "moore@ithaca.edu",
+        "office": "Williams Hall 402E, Ithaca, NY 14850",
+        "specialty": "Geometry and Topology",
         "bio": {
             "generic": []
         }
@@ -2472,11 +2472,11 @@
         "role": "Associate Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-02/headshot-dv-med.png.webp?itok=XGIgfP59",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: dvisscher@ithaca.edu",
-        "office": "Office: Williams Hall 402B, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "email": "dvisscher@ithaca.edu",
+        "office": "Williams Hall 402B, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Dynamical Systems",
+            "Dynamical Systems",
             "Geometry"
         ]
     },
@@ -2485,11 +2485,11 @@
         "role": "Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/headshot_large.jpeg.webp?itok=oaHpaYUK",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7081",
-        "email": "Email: aweinberg@ithaca.edu",
-        "office": "Office: Williams Hall 311C, Ithaca, NY 14850",
-        "specialty": "Specialty: Mathematics Education",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7081",
+        "email": "aweinberg@ithaca.edu",
+        "office": "Williams Hall 311C, Ithaca, NY 14850",
+        "specialty": "Mathematics Education",
         "bio": {
             "generic": [
                 "I joined the mathematics department at Ithaca College in 2005. I teach a wide range of undergraduate mathematics courses, including introductory statistics and calculus, courses about the history and philosophy of mathematics, and classes for students who are aspiring teachers. In all of my classes I design activities and projects that have students exploring, discussing, and collaborating.",
@@ -2503,12 +2503,12 @@
         "role": "Professor",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-02/img_4140.jpg.webp?itok=w8wHIUrP",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1220",
-        "email": "Email: ewiesner@ithaca.edu",
-        "office": "Office: Williams Hall 402C",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1220",
+        "email": "ewiesner@ithaca.edu",
+        "office": "Williams Hall 402C",
         "specialty": [
-            "Specialty: Representation Theory (Algebra)",
+            "Representation Theory (Algebra)",
             "Mathematics Education"
         ],
         "bio": {
@@ -2522,11 +2522,11 @@
         "name": "Osman Yurekli",
         "role": "Professor",
         "department": "Mathematics",
-        "phone": "Phone: 607-274-1434",
-        "email": "Email: yurekli@ithaca.edu",
-        "office": "Office: Williams Hall 311D, Ithaca, NY 14850",
+        "phone": "607-274-1434",
+        "email": "yurekli@ithaca.edu",
+        "office": "Williams Hall 311D, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Classical Analysis",
+            "Classical Analysis",
             "Integral Transforms and Special Functions"
         ],
         "bio": {
@@ -2541,16 +2541,16 @@
         "name": "Stephen Hilbert",
         "role": "Professor Emeritus",
         "department": "Mathematics",
-        "email": "Email: hilbert@ithaca.edu"
+        "email": "hilbert@ithaca.edu"
     },
     {
         "name": "Dani Novak",
         "role": "Professor Emeritus",
         "department": "Mathematics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-05/novak.jpg.webp?itok=AB1j-6VO",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: novak@ithaca.edu",
-        "specialty": "Specialty: Breathing",
+        "school": "School of Humanities and Sciences",
+        "email": "novak@ithaca.edu",
+        "specialty": "Breathing",
         "bio": {
             "generic": [
                 "Link to Presentation 2/20/2024"
@@ -2572,7 +2572,7 @@
         "name": "Eric Robinson",
         "role": "Professor Emeritus",
         "department": "Mathematics",
-        "email": "Email: robinson@ithaca.edu",
+        "email": "robinson@ithaca.edu",
         "bio": {
             "generic": []
         }
@@ -2581,7 +2581,7 @@
         "name": "Martin Sternstein",
         "role": "Professor Emeritus",
         "department": "Mathematics",
-        "email": "Email: martys@ithaca.edu",
+        "email": "martys@ithaca.edu",
         "bio": {
             "generic": [
                 "Marty Sternstein, Professor Emeritus, taught at Ithaca College from 1970, except for one year as Visiting Professor and Head of the Math Dept at the College of the Virgin Islands, St. Croix, and two years as Fulbright Professor and Math Dept Chair at the University of Liberia, Monrovia, Liberia. At Ithaca College he was Math Dept Chair for six years, received three Dana Teaching Awards, and was honored with the Ithaca College Excellence in Teaching Award. He developed new curricula including \"Power Algebra\" and \"Dynamic Functions\" (with Yurekli and Novak), \"Math in Africa\", and the first U.S. course for college credit in chess theory (with S. Schwartz). He is the only mathematician to give a presentation at the annual Conference on African Linguistics. His most recent publication is the Barron's Educational Series: AP Statistics.",
@@ -2595,12 +2595,12 @@
         "role": "Professor and Director of the Screen Cultures Program",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/richardson.jpg.webp?itok=LO79m_Vj",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3559",
-        "email": "Email: mrichardson@ithaca.edu",
-        "office": "Office: Muller Faculty Center 432, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3559",
+        "email": "mrichardson@ithaca.edu",
+        "office": "Muller Faculty Center 432, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: 20th and 21st century German literature and cinema",
+            "20th and 21st century German literature and cinema",
             "Holocaust Studies",
             "Screen Studies"
         ],
@@ -2616,11 +2616,11 @@
         "role": "Professor",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-08/img_0102-1.png.webp?itok=n95WMTrW",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3547",
-        "email": "Email: mdifrancesco@ithaca.edu",
-        "office": "Office: Muller Faculty Center 411, Ithaca, NY 14850",
-        "specialty": "Specialty: Contemporary Spanish Literature; Exile; Migration in Spanish Literature and Culture",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3547",
+        "email": "mdifrancesco@ithaca.edu",
+        "office": "Muller Faculty Center 411, Ithaca, NY 14850",
+        "specialty": "Contemporary Spanish Literature; Exile; Migration in Spanish Literature and Culture",
         "bio": {
             "generic": [
                 "I am a seasoned professional in higher education and hold a Ph.D. from the Romance Languages & Literatures Department of SUNY-Buffalo. Having specialized in contemporary Spanish literature and film, I approach narrative and visual texts through the prism of women's, gender, and sexuality studies. I have secondary expertise in disciplinary theory associated with space and place as well as human migration and exile.",
@@ -2637,12 +2637,12 @@
         "role": "Professor",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/SEN3e_Author_Photo.jpg.webp?itok=SQh8ZGOj",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3513",
-        "email": "Email: jcozzarelli@ithaca.edu",
-        "office": "Office: Muller Faculty Center 428, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3513",
+        "email": "jcozzarelli@ithaca.edu",
+        "office": "Muller Faculty Center 428, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Italian Medieval",
+            "Italian Medieval",
             "Renaissance and Modern Literature"
         ],
         "bio": {
@@ -2692,11 +2692,11 @@
         "role": "Professor and Chair",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/Feltrin-Morris%20Photo.jpg.webp?itok=kPqt-gFP",
-        "phone": "Phone: 607-274-3644",
-        "email": "Email: mfeltrinmorris@ithaca.edu",
-        "office": "Office: Muller Faculty Center 409, Ithaca, NY 14850",
+        "phone": "607-274-3644",
+        "email": "mfeltrinmorris@ithaca.edu",
+        "office": "Muller Faculty Center 409, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Modern and Contemporary Italian Literature",
+            "Modern and Contemporary Italian Literature",
             "Translation Studies"
         ],
         "bio": {
@@ -2737,10 +2737,10 @@
         "role": "Associate Professor",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-12/img_4441_0.jpeg.webp?itok=wab29RaT",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: mfournier@ithaca.edu",
-        "office": "Office: Muller Faculty Center 404, Ithaca, NY 14850",
-        "specialty": "Specialty: XXth Century French Literature; Transgender Studies; Continental Philosophy",
+        "school": "School of Humanities and Sciences",
+        "email": "mfournier@ithaca.edu",
+        "office": "Muller Faculty Center 404, Ithaca, NY 14850",
+        "specialty": "XXth Century French Literature; Transgender Studies; Continental Philosophy",
         "bio": {
             "generic": [
                 "Mat Fournier (he/him)\u00a0is an Associate Professor of French and an affiliate member of the Women's, Gender, and Sexuality Studies Program. His research focuses on modernist literature, with a particular interest in the articulation between trans studies and political theory. His research has been published in\u00a0Journal of Postcolonial Writing; Simone de Beauvoir Studies; L'Esprit Cr\u00e9ateur;\u00a0Transgender Studies Quarterly, and in edited volumes such as\u00a0Deleuze on Children\u00a0and\u00a0Transecology: Transgender Perspectives on the Environment.",
@@ -2754,11 +2754,11 @@
         "role": "Associate Professor",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-06/headshot.jpg.webp?itok=1GcVhSyi",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7044",
-        "email": "Email: egonzalezconty@ithaca.edu",
-        "office": "Office: 416 Muller Center",
-        "specialty": "Specialty: Latin American Literature and Film",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7044",
+        "email": "egonzalezconty@ithaca.edu",
+        "office": "416 Muller Center",
+        "specialty": "Latin American Literature and Film",
         "bio": {
             "generic": [
                 "Dr. Enrique Gonz\u00e1lez-Conty is an Associate Professor of Spanish in the Department of World Languages, Literatures, and Cultures at\u00a0Ithaca College. He was the\u00a02013-14 Pre-Doctoral Diversity Fellow\u00a0at this same institution. He obtained his\u00a0PhD in Hispanic Literature in 2014 from\u00a0The University of Texas at Austin.\u00a0His current book project Archiving the Revolution: Claiming History in Cuban Literature and Film examines the close relationship between post-revolutionary Cuban Literature and Film and its ties to important Cuban state institutions such as Casa de las Am\u00e9ricas and the Cuban Film Institute (ICAIC). His research appears in top peer-reviewed journals including\u00a0the Puerto Rican Studies Centro Journal and Black Camera, a film journal published by Indiana University Press. Dr. Gonz\u00e1lez-Conty is also the co-coordinator of the Latin American Studies Program at Ithaca College and the former faculty in charge of the Study Abroad in Cuba program. In the community he is the director of the Cine con Cultura Film Festival in Ithaca, NY\u00a0and a board member of several local organizations including the Latino Civic Association, Cinemapolis, the Tompkins County Immigrant Rights Coalition, and the Committee on U.S.-Latin American Relations (CUSLAR) at Cornell University. He teaches\u00a0Latin American Literature and Film and World Cinema courses,\u00a0as well as\u00a0Spanish language.",
@@ -2786,10 +2786,10 @@
         "role": "Professor and Jewish Studies Coordinator",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/rainbow2017Annettecrop.png.webp?itok=gg9Saex1",
-        "phone": "Phone: 607-274-3252",
-        "email": "Email: alevine@ithaca.edu",
-        "office": "Office: Muller Faculty Center 420, Ithaca, NY 14850",
-        "specialty": "Specialty: Latin American and Latino/a Literature and Theatre; Translation Studies",
+        "phone": "607-274-3252",
+        "email": "alevine@ithaca.edu",
+        "office": "Muller Faculty Center 420, Ithaca, NY 14850",
+        "specialty": "Latin American and Latino/a Literature and Theatre; Translation Studies",
         "bio": {
             "generic": [
                 "Annette H. Levine teaches Spanish and Latin American Studies in the Department of World Languages, Literatures, and Cultures. Her\u00a0main research, teaching, and professional interests are Nineteenth and Twentieth Century Latin American Literature, Latino/a Literature, and Translation studies. She devotes much of her scholarship to human rights and cultural production (literature, film, monuments, music, and theatre) in the aftermath of dictatorships in Latin America. She teaches courses in Latin American Studies, Latina/o Studies, Jewish Studies, and the Spanish language.",
@@ -2803,10 +2803,10 @@
         "role": "Assistant Professor and Latin American Studies Coordinator",
         "department": "and Cultures",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-12/screenshot-2023-12-08-at-10.32.50-pm.png.webp?itok=bEtaq865",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: cmalagon@ithaca.edu",
-        "office": "Office: Muller Faculty Center 407, Ithaca, NY 14850",
-        "specialty": "Specialty: 20th and 21st Century Latin American Literature and Film",
+        "school": "School of Humanities and Sciences",
+        "email": "cmalagon@ithaca.edu",
+        "office": "Muller Faculty Center 407, Ithaca, NY 14850",
+        "specialty": "20th and 21st Century Latin American Literature and Film",
         "bio": {
             "generic": [
                 "Camilo A. Malag\u00f3n is Assistant Professor in the Department of World Languages, Literatures, and Cultures at Ithaca College and Co-Director of the Latin American and Caribbean Studies Program. Currently, he serves as\u00a0President of\u00a0the Asociaci\u00f3n de Colombianistas (Association of Colombianist Scholars\u00a0- www.colombianistas.org) and serves in the editorial board of the academic journal\u00a0Ciberletras\u00a0- Revista de cr\u00edtica literaria y de cultura.",
@@ -2820,10 +2820,10 @@
         "name": "Gladys M. Varona-Lacey",
         "role": "Professor",
         "department": "and Cultures",
-        "phone": "Phone: 607-274-1346",
-        "email": "Email: varona@ithaca.edu",
-        "office": "Office: Muller Faculty Center 431, Ithaca, NY 14850",
-        "specialty": "Specialty: Latin American Literature",
+        "phone": "607-274-1346",
+        "email": "varona@ithaca.edu",
+        "office": "Muller Faculty Center 431, Ithaca, NY 14850",
+        "specialty": "Latin American Literature",
         "bio": {
             "degrees:": [
                 "Ph.D., Department of Hispanic Languages and Literatures, University of Pittsburgh",
@@ -2856,9 +2856,9 @@
         "name": "Silvia Abbiati",
         "role": "Lecturer",
         "department": "and Cultures",
-        "phone": "Phone: 607-274-3467",
-        "email": "Email: sabbiati@ithaca.edu",
-        "office": "Office: Muller Faculty Center 417A, Ithaca, NY 14850",
+        "phone": "607-274-3467",
+        "email": "sabbiati@ithaca.edu",
+        "office": "Muller Faculty Center 417A, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "Silvia M. Abbiati was born and raised in Milano, Italy, where she received her B.A. in Foreign Languages and Literatures (summa cum laude), and her M.A. degree in Applied Linguistics / Translation Studies. Her master thesis focused on English adjectival nouns and their Italian equivalents. After graduating, she moved to the United States where she worked as a computational linguist before receiving her M.S. degree in Organizational Communication, Learning and Design from Ithaca College in 2002.\u00a0 Silvia has an ABD in Translation Studies. Her areas of study include translation pedagogy, translation into a second language, and modern translation of medieval texts. She's currently translating an Italian medieval poem that has never been translated into English before.",
@@ -2878,9 +2878,9 @@
         "name": "Hong Li",
         "role": "Lecturer",
         "department": "and Cultures",
-        "phone": "Phone: 607-274-5808",
-        "email": "Email: hli2@ithaca.edu",
-        "office": "Office: Muller Faculty Center 417A, Ithaca, NY 14850",
+        "phone": "607-274-5808",
+        "email": "hli2@ithaca.edu",
+        "office": "Muller Faculty Center 417A, Ithaca, NY 14850",
         "bio": {
             "generic": []
         }
@@ -2889,20 +2889,20 @@
         "name": "Francoise Gebhart",
         "role": "Professor Emerita",
         "department": "Modern Languages and Literatures",
-        "email": "Email: fgebhart@ithaca.edu"
+        "email": "fgebhart@ithaca.edu"
     },
     {
         "name": "Jane Kaplan",
         "role": "Professor Emerita",
         "department": "Modern Languages and Literatures",
-        "email": "Email: kaplan@ithaca.edu"
+        "email": "kaplan@ithaca.edu"
     },
     {
         "name": "Sabatino Maglione",
         "role": "Professor Emeritus",
         "department": "Modern Languages and Literatures",
-        "email": "Email: maglione@ithaca.edu",
-        "specialty": "Specialty: Spanish Golden Age Literature and Italian Medieval/Renaissance Literature",
+        "email": "maglione@ithaca.edu",
+        "specialty": "Spanish Golden Age Literature and Italian Medieval/Renaissance Literature",
         "bio": {
             "generic": [
                 "",
@@ -2942,18 +2942,18 @@
         "name": "Anne Rodda",
         "role": "Professor Emerita",
         "department": "Modern Languages and Literatures",
-        "email": "Email: rodda@ithaca.edu"
+        "email": "rodda@ithaca.edu"
     },
     {
         "name": "Craig Duncan",
         "role": "Professor",
         "department": "Philosophy and Religion",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-02/IMG_1756_1.JPG.webp?itok=GbF6jQQL",
-        "phone": "Phone: 607-274-3580",
-        "email": "Email: cduncan@ithaca.edu",
-        "office": "Office: Job Hall 320, Ithaca, NY 14850",
+        "phone": "607-274-3580",
+        "email": "cduncan@ithaca.edu",
+        "office": "Job Hall 320, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Political Philosophy",
+            "Political Philosophy",
             "Ethics",
             "Philosophy of Religion"
         ],
@@ -2971,9 +2971,9 @@
         "name": "Serge Grigoriev",
         "role": "Professor",
         "department": "Philosophy and Religion",
-        "phone": "Phone: 607-274-5713",
-        "email": "Email: sgrigoriev@ithaca.edu",
-        "office": "Office: Job Hall 302",
+        "phone": "607-274-5713",
+        "email": "sgrigoriev@ithaca.edu",
+        "office": "Job Hall 302",
         "bio": {
             "generic": []
         }
@@ -2983,7 +2983,7 @@
         "role": "Retired Professor Emeritus",
         "department": "Philosophy and Religion",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-08/9c56d8a7-2eca-4fba-88fa-3b9b1212b724-9992.jpg.webp?itok=AU_Xyn8b",
-        "email": "Email: kaufmanf@ithaca.edu",
+        "email": "kaufmanf@ithaca.edu",
         "bio": {
             "generic": []
         }
@@ -2993,11 +2993,11 @@
         "role": "Associate Professor",
         "department": "Philosophy and Religion",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/pic-of-me_0.jpg.webp?itok=qEOc0qe2",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3556",
-        "email": "Email: rlesses@ithaca.edu",
-        "office": "Office: Job Hall 318",
-        "specialty": "Specialty: Jewish Studies",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3556",
+        "email": "rlesses@ithaca.edu",
+        "office": "Job Hall 318",
+        "specialty": "Jewish Studies",
         "bio": {
             "generic": [
                 "On this site, you can read information about my book, Ritual Practices to Gain\u00a0Power, about my current courses, course policies, and about my family history (letters of historical interest, and columns written by my grandfather Richard Wilson, who was the Washington bureau chief for the Des Moines Register from 1933 to 1970).",
@@ -3019,11 +3019,11 @@
         "name": "Tatiana Patrone",
         "role": "Associate Professor",
         "department": "Philosophy and Religion",
-        "phone": "Phone: 607-274-7347",
-        "email": "Email: tpatrone@ithaca.edu",
-        "office": "Office: Rothschild Place 146, Ithaca, NY 14850",
+        "phone": "607-274-7347",
+        "email": "tpatrone@ithaca.edu",
+        "office": "Rothschild Place 146, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: History of philosophy (esp. Kant)",
+            "History of philosophy (esp. Kant)",
             "political philosophy",
             "bioethics"
         ],
@@ -3039,11 +3039,11 @@
         "name": "Jonathan Peeters",
         "role": "Assistant Professor",
         "department": "Philosophy and Religion",
-        "phone": "Phone: 607-274-3077",
-        "email": "Email: jpeeters@ithaca.edu",
-        "office": "Office: Job Hall 313",
+        "phone": "607-274-3077",
+        "email": "jpeeters@ithaca.edu",
+        "office": "Job Hall 313",
         "specialty": [
-            "Specialty: Early Modern Philosophy",
+            "Early Modern Philosophy",
             "Contemporary Metaphysics"
         ],
         "bio": {
@@ -3058,9 +3058,9 @@
         "name": "Eric Steinschneider",
         "role": "Associate Professor",
         "department": "Philosophy and Religion",
-        "phone": "Phone: 617-519-5443",
-        "email": "Email: esteinschneider@ithaca.edu",
-        "office": "Office: Job Hall 303",
+        "phone": "617-519-5443",
+        "email": "esteinschneider@ithaca.edu",
+        "office": "Job Hall 303",
         "bio": {
             "generic": []
         }
@@ -3070,11 +3070,11 @@
         "role": "Professor and Chair",
         "department": "Philosophy and Religion",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-10/Rachel-good-photo.jpg.webp?itok=RaUDiLVO",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3250",
-        "email": "Email: rwagner@ithaca.edu",
-        "office": "Office: Job Hall 319 ",
-        "specialty": "Specialty: religion and media; religion and gaming; religion and culture; religion and film; religion and gender; interdisciplinary theories and methods in religious studies; Abrahamic religions; New Testament.",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3250",
+        "email": "rwagner@ithaca.edu",
+        "office": "Job Hall 319",
+        "specialty": "religion and media; religion and gaming; religion and culture; religion and film; religion and gender; interdisciplinary theories and methods in religious studies; Abrahamic religions; New Testament.",
         "bio": {
             "generic": [
                 "To make an appointment with Dr. Wagner, go here.",
@@ -3091,12 +3091,12 @@
         "role": "Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/2019_beth_in_tucson.jpg.webp?itok=o4DYIi73",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: (607) 227-8061",
-        "email": "Email: bclark@ithaca.edu",
-        "office": "Office: Center for Natural Sciences, Room 268",
+        "school": "School of Humanities and Sciences",
+        "phone": "(607) 227-8061",
+        "email": "bclark@ithaca.edu",
+        "office": "Center for Natural Sciences, Room 268",
         "specialty": [
-            "Specialty: Astronomy",
+            "Astronomy",
             "Planetary Science",
             "Asteroids",
             "Spectroscopy",
@@ -3181,11 +3181,11 @@
         "role": "Dana Professor and Chair",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/h-s-headshots-1634.jpg.webp?itok=yUtvITTT",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3964",
-        "email": "Email: mcsullivan@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 262, Ithaca, NY 14850",
-        "specialty": "Specialty: Solid State Physics and Pedagogical Physics",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3964",
+        "email": "mcsullivan@ithaca.edu",
+        "office": "Center for Natural Sciences 262, Ithaca, NY 14850",
+        "specialty": "Solid State Physics and Pedagogical Physics",
         "bio": {
             "generic": [
                 "I teach all branches of Physics to students from the introductory level through the senior level at Ithaca College.\u00a0 My hope is to increase students' understanding of Physics but also to increase their critical and analytical thinking skills while fostering a love of Physics and a sense of wonder about the natural world.",
@@ -3199,12 +3199,12 @@
         "role": "Assistant Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/h-s-headshots-1559.jpg.webp?itok=rZ8aeQ9y",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7779",
-        "email": "Email: ccountryman@ithaca.edu",
-        "office": "Office: Center for Natural Sciences (CNS) 264",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7779",
+        "email": "ccountryman@ithaca.edu",
+        "office": "Center for Natural Sciences (CNS) 264",
         "specialty": [
-            "Specialty: Physics Education Research",
+            "Physics Education Research",
             "Development and Assessment of Smartphone Apps and Simulations",
             "Active Learning Techniques",
             "Educational Technologies",
@@ -3224,10 +3224,10 @@
         "role": "Associate Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-02/jerome_fung_headshot_feb2019_small.jpeg.webp?itok=ub54Q7JP",
-        "phone": "Phone: 607-274-3984",
-        "email": "Email: jfung@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 263, Ithaca, NY 14850",
-        "specialty": "Specialty: Soft condensed matter/Optics",
+        "phone": "607-274-3984",
+        "email": "jfung@ithaca.edu",
+        "office": "Center for Natural Sciences 263, Ithaca, NY 14850",
+        "specialty": "Soft condensed matter/Optics",
         "bio": {
             "generic": [
                 "To me, physics is all about the joy of understanding how the universe works. I hope to share that joy in the courses I teach across the physics curriculum as well as through my research. My students and I use experimental and computational tools to more deeply understand soft condensed matter (i.e., the physics of squishy materials) and optics."
@@ -3239,12 +3239,12 @@
         "role": "Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-07/lukekeller_2017.jpg.webp?itok=UWeQFj3D",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3966",
-        "email": "Email: lkeller@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 267, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3966",
+        "email": "lkeller@ithaca.edu",
+        "office": "Center for Natural Sciences 267, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Astrophysics",
+            "Astrophysics",
             "spectroscopy",
             "art-science connections and collaborations",
             "natural science general education"
@@ -3262,12 +3262,12 @@
         "role": "Associate Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/eric.leibensperger3.jpg.webp?itok=Y0wfbS4w",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-5722",
-        "email": "Email: eleibensperger@ithaca.edu",
-        "office": "Office: CNS 265",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-5722",
+        "email": "eleibensperger@ithaca.edu",
+        "office": "CNS 265",
         "specialty": [
-            "Specialty: Environmental Physics",
+            "Environmental Physics",
             "Climate Change",
             "Air Quality"
         ],
@@ -3282,12 +3282,12 @@
         "role": "Associate Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-03/pricecfo_4.jpg.webp?itok=GvT4KVyZ",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3849",
-        "email": "Email: mprice@ithaca.edu",
-        "office": "Office: Center for Natural Sciences 266, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3849",
+        "email": "mprice@ithaca.edu",
+        "office": "Center for Natural Sciences 266, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Physics and Astronomy Education",
+            "Physics and Astronomy Education",
             "Small Ground-Based Telescope Observations"
         ]
     },
@@ -3296,11 +3296,11 @@
         "role": "Associate Professor",
         "department": "Physics and Astronomy",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/kdsullivanheadshot24_3.jpg.webp?itok=r32gZIt8",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7065",
-        "email": "Email: kdsullivan@ithaca.edu",
-        "office": "Office: 260 Center for Natural Sciences",
-        "specialty": "Specialty: Student Success and Physics Education",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7065",
+        "email": "kdsullivan@ithaca.edu",
+        "office": "260 Center for Natural Sciences",
+        "specialty": "Student Success and Physics Education",
         "bio": {
             "generic": [
                 "I enjoy teaching a variety of courses for both majors and non-majors. Of particular importance to me is cultivating an inclusive and welcoming classroom environment. I engage students using active learning techniques proven to support student learning best, promote inclusion, and make physics fun!",
@@ -3312,23 +3312,23 @@
         "name": "Ahren Sadoff",
         "role": "Professor Emeritus",
         "department": "Physics",
-        "email": "Email: sadoff@ithaca.edu"
+        "email": "sadoff@ithaca.edu"
     },
     {
         "name": "Paulen Smith",
         "role": "Professor Emeritus",
         "department": "Physics",
-        "email": "Email: paulen@ithaca.edu"
+        "email": "paulen@ithaca.edu"
     },
     {
         "name": "Chip Gagnon",
         "role": "Professor and Chair",
         "department": "Politics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/chip-headshot-medium.jpg.webp?itok=oQWichfD",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: vgagnon@ithaca.edu",
-        "office": "Office: Muller Faculty Center 324, Ithaca, NY 14850",
-        "specialty": "Specialty: International Relations/Comparative Politics",
+        "school": "School of Humanities and Sciences",
+        "email": "vgagnon@ithaca.edu",
+        "office": "Muller Faculty Center 324, Ithaca, NY 14850",
+        "specialty": "International Relations/Comparative Politics",
         "bio": {
             "generic": [
                 "Chip Gagnon is a Professor of Politics and Chair of the Department of Politics.\u00a0 He teaches courses in the area of\u00a0international politics.",
@@ -3374,12 +3374,12 @@
         "role": "Associate Professor",
         "department": "Politics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-05/Carlos%20Figueroa%20Profile%20Photo%20May%202022_0.jpg.webp?itok=G66WvUp5",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7381",
-        "email": "Email: cfigueroa@ithaca.edu",
-        "office": "Office: Muller Faculty Center 319, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7381",
+        "email": "cfigueroa@ithaca.edu",
+        "office": "Muller Faculty Center 319, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: U.S. Politics & Policy; Race",
+            "U.S. Politics & Policy; Race",
             "Religion",
             "& Class politics; U.S. Quakerism; Afro American Politics; US-Puerto Rico policy; Public Leadership"
         ],
@@ -3436,10 +3436,10 @@
         "name": "Juan Arroyo",
         "role": "Assistant Professor",
         "department": "Politics",
-        "phone": "Phone: 607-274-3969",
-        "email": "Email: jarroyo@ithaca.edu",
-        "office": "Office: Muller Faculty Center 316, Ithaca, NY 14850",
-        "specialty": "Specialty: Comparative Politics",
+        "phone": "607-274-3969",
+        "email": "jarroyo@ithaca.edu",
+        "office": "Muller Faculty Center 316, Ithaca, NY 14850",
+        "specialty": "Comparative Politics",
         "bio": {
             "generic": [
                 "Back in elementary school, I already knew I wanted to be a teacher. (There was a brief period when I wanted to be a pastry chef, but we can talk about that another time.) This feeling was strengthened by great experiences in middle and high schools, and by the educational environment in my family. It is a great pleasure and privilege to be teaching at IC.",
@@ -3471,10 +3471,10 @@
         "role": "Assistant Professor",
         "department": "Politics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/Sumru_Atuk_007_2.jpeg.webp?itok=tBizYYfd",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: satuk@ithaca.edu",
+        "school": "School of Humanities and Sciences",
+        "email": "satuk@ithaca.edu",
         "specialty": [
-            "Specialty: Political Theory",
+            "Political Theory",
             "Feminist Theory",
             "Public Policy"
         ],
@@ -3489,11 +3489,11 @@
         "name": "Donald Beachler",
         "role": "Associate Professor",
         "department": "Politics",
-        "phone": "Phone: 607-274-1249",
-        "email": "Email: beachler@ithaca.edu",
-        "office": "Office: Muller Faculty Center 330, Ithaca, NY 14850",
+        "phone": "607-274-1249",
+        "email": "beachler@ithaca.edu",
+        "office": "Muller Faculty Center 330, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: U.S. Politics (Parties and Elections",
+            "U.S. Politics (Parties and Elections",
             "Public Policy )/ Holocaust and Genocide Studies"
         ],
         "bio": {
@@ -3507,9 +3507,9 @@
         "name": "Evgenia Ilieva",
         "role": "Associate Professor",
         "department": "Politics",
-        "phone": "Phone: 607-274-7092",
-        "email": "Email: eilieva@ithaca.edu",
-        "office": "Office: Muller Faculty Center 311, Ithaca, NY 14850",
+        "phone": "607-274-7092",
+        "email": "eilieva@ithaca.edu",
+        "office": "Muller Faculty Center 311, Ithaca, NY 14850",
         "bio": {
             "generic": []
         }
@@ -3519,10 +3519,10 @@
         "role": "Assistant Professor",
         "department": "Politics",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/amy-rothschild-pic.jpg.webp?itok=getF0zKo",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: arothschild@ithaca.edu",
-        "office": "Office: Muller Faculty Center, Ithaca, NY 14850",
-        "specialty": "Specialty: Human Rights/Transitional Justice; Genocide; Law & Society; Collective Memory; Timor-Leste; Nationalism; Race; Trauma ",
+        "school": "School of Humanities and Sciences",
+        "email": "arothschild@ithaca.edu",
+        "office": "Muller Faculty Center, Ithaca, NY 14850",
+        "specialty": "Human Rights/Transitional Justice; Genocide; Law & Society; Collective Memory; Timor-Leste; Nationalism; Race; Trauma",
         "bio": {
             "generic": [
                 "Amy Rothschild is a sociocultural and legal anthropologist focused on questions of human rights, genocide, and memory in Southeast Asia. She holds a Ph.D. in anthropology from the University of California, San Diego and a J.D. from Yale Law School (she received her B.A. from the University of Pennsylvania). She is assistant professor of sociolegal studies and politics at\u00a0Ithaca College.",
@@ -3538,11 +3538,11 @@
         "name": "Peyi Soyinka-Airewele",
         "role": "Professor",
         "department": "Politics",
-        "phone": "Phone: 607-274-3508",
-        "email": "Email: pairewele@ithaca.edu",
-        "office": "Office: Muller Faculty Center 314, Ithaca, NY 14850",
+        "phone": "607-274-3508",
+        "email": "pairewele@ithaca.edu",
+        "office": "Muller Faculty Center 314, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: International and African Politics",
+            "International and African Politics",
             "The Politics of Memory",
             "Critical Studies in Democratic Development",
             "Politics of Popular African Cinema"
@@ -3558,9 +3558,9 @@
         "name": "Zillah Eisenstein",
         "role": "Professor Emerita",
         "department": "Politics",
-        "email": "Email: eisenste@ithaca.edu",
+        "email": "eisenste@ithaca.edu",
         "specialty": [
-            "Specialty: politics of class",
+            "politics of class",
             "sex",
             "and race; political theory; feminist theories; gender construction"
         ],
@@ -3588,8 +3588,8 @@
         "name": "Thomas Shevory",
         "role": "Professor Emeritus",
         "department": "Politics",
-        "email": "Email: shevory@ithaca.edu",
-        "specialty": "Specialty: Law and Public Policy",
+        "email": "shevory@ithaca.edu",
+        "specialty": "Law and Public Policy",
         "bio": {
             "generic": [
                 "Thomas Shevory is Professor of Politics at Ithaca College. He has published six books and numerous scholarly articles on issues related to law, public policy, and popular culture, with special attention to health and environment.",
@@ -3615,10 +3615,10 @@
         "role": "Professor",
         "department": "Psychology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-08/IMG_8475c.jpg.webp?itok=wNHVhcyJ",
-        "phone": "Phone: 607-274-1323",
-        "email": "Email: depalma@ithaca.edu",
-        "office": "Office: Williams Hall 119F, Ithaca, NY 14850",
-        "specialty": "Specialty: Social Motivation/Health Psychology",
+        "phone": "607-274-1323",
+        "email": "depalma@ithaca.edu",
+        "office": "Williams Hall 119F, Ithaca, NY 14850",
+        "specialty": "Social Motivation/Health Psychology",
         "bio": {
             "generic": []
         }
@@ -3627,10 +3627,10 @@
         "name": "Brandy Bessette-Symons",
         "role": "Associate Professor and Neuroscience Minor Coordinator",
         "department": "Psychology",
-        "phone": "Phone: 607-274-1988",
-        "email": "Email: bbessettesymons@ithaca.edu",
-        "office": "Office: Williams Hall 115C, Ithaca, NY 14850",
-        "specialty": "Specialty: Developmental Cognitive Neuroscience",
+        "phone": "607-274-1988",
+        "email": "bbessettesymons@ithaca.edu",
+        "office": "Williams Hall 115C, Ithaca, NY 14850",
+        "specialty": "Developmental Cognitive Neuroscience",
         "bio": {
             "degrees:": [
                 "Ph.D., Syracuse University, Experimental Psychology",
@@ -3669,18 +3669,18 @@
         "name": "Natasha Bharj",
         "role": "Assistant Professor",
         "department": "Psychology",
-        "email": "Email: nbharj@ithaca.edu",
-        "office": "Office: Williams Hall 110, Ithaca, NY 14850"
+        "email": "nbharj@ithaca.edu",
+        "office": "Williams Hall 110, Ithaca, NY 14850"
     },
     {
         "name": "Jessye Cohen-Filipic",
         "role": "Associate Professor and Exploratory Pathways Co-Director and Counseling Mino",
         "department": "Psychology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-04/img_1811.jpg.webp?itok=cAB2eHkr",
-        "phone": "Phone: 607-274-9133",
-        "email": "Email: jcohenfilipic@ithaca.edu",
-        "office": "Office: Williams 119N\r\n& Muller 207",
-        "specialty": "Specialty: Counseling Psychology",
+        "phone": "607-274-9133",
+        "email": "jcohenfilipic@ithaca.edu",
+        "office": "Williams 119N\r\n& Muller 207",
+        "specialty": "Counseling Psychology",
         "bio": {
             "generic": [
                 "I am a faculty member in the Psychology Department and the \u00a0Counseling Minor. I am also co-director for the H&S Pathways Program.",
@@ -3719,11 +3719,11 @@
         "role": "Assistant Professor",
         "department": "Psychology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/h-s-headshots-1480_1.jpg.webp?itok=CCXECact",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: afaherty@ithaca.edu",
-        "office": "Office: Williams Hall 119E",
+        "school": "School of Humanities and Sciences",
+        "email": "afaherty@ithaca.edu",
+        "office": "Williams Hall 119E",
         "specialty": [
-            "Specialty: Developmental Psychology",
+            "Developmental Psychology",
             "Emerging Adulthood",
             "Culture",
             "Parent-Child Relationships"
@@ -3740,10 +3740,10 @@
         "name": "Jeff Holmes",
         "role": "Professor",
         "department": "Psychology",
-        "phone": "Phone: 607-274-7386",
-        "email": "Email: jholmes@ithaca.edu",
-        "office": "Office: Williams Hall 109, Ithaca, NY 14850",
-        "specialty": "Specialty: Counseling and General Psychology",
+        "phone": "607-274-7386",
+        "email": "jholmes@ithaca.edu",
+        "office": "Williams Hall 109, Ithaca, NY 14850",
+        "specialty": "Counseling and General Psychology",
         "bio": {
             "degrees:": [
                 "Ph.D., University of Akron, Counseling Psychology",
@@ -3756,12 +3756,12 @@
         "role": "Professor and Chair",
         "department": "Psychology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/h-s-headshots-1461.jpg.webp?itok=_oDo1s2W",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-7083",
-        "email": "Email: jpenaper@ithaca.edu",
-        "office": "Office: Williams Hall 115D, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-7083",
+        "email": "jpenaper@ithaca.edu",
+        "office": "Williams Hall 115D, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Program evaluation; human development",
+            "Program evaluation; human development",
             "curriculum and instruction",
             "qualitative research methodologist"
         ],
@@ -3776,11 +3776,11 @@
         "name": "Cyndy Scheibe",
         "role": "Dana Professor and Project Look Sharp Coordinator",
         "department": "Psychology",
-        "phone": "Phone: 607-274-1324",
-        "email": "Email: scheibe@ithaca.edu",
-        "office": "Office: Williams Hall 115B, Ithaca, NY 14850",
+        "phone": "607-274-1324",
+        "email": "scheibe@ithaca.edu",
+        "office": "Williams Hall 115B, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: developmental psychology",
+            "developmental psychology",
             "media literacy"
         ],
         "bio": {
@@ -3795,10 +3795,10 @@
         "name": "Hugh Stephenson",
         "role": "Associate Professor",
         "department": "Psychology",
-        "phone": "Phone: 607-274-3251",
-        "email": "Email: stephens@ithaca.edu",
-        "office": "Office: Williams Hall 111, Ithaca, NY 14850",
-        "specialty": "Specialty: Clinical Psychology",
+        "phone": "607-274-3251",
+        "email": "stephens@ithaca.edu",
+        "office": "Williams Hall 111, Ithaca, NY 14850",
+        "specialty": "Clinical Psychology",
         "bio": {
             "generic": [
                 "Education",
@@ -3830,10 +3830,10 @@
         "role": "Professor",
         "department": "Psychology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-01/2-26-19-photo-by-julia-cherruault-cropped-to-square.jpg.webp?itok=aCFwQXaK",
-        "phone": "Phone: 607-274-7353",
-        "email": "Email: lvaughn@ithaca.edu",
-        "office": "Office: Williams Hall 115A, Ithaca, NY 14850",
-        "specialty": "Specialty: Social Psychology",
+        "phone": "607-274-7353",
+        "email": "lvaughn@ithaca.edu",
+        "office": "Williams Hall 115A, Ithaca, NY 14850",
+        "specialty": "Social Psychology",
         "bio": {
             "generic": [
                 "Degrees",
@@ -3865,7 +3865,7 @@
         "name": "Carla Golden",
         "role": "Professor Emerita",
         "department": "Psychology",
-        "email": "Email: golden@ithaca.edu",
+        "email": "golden@ithaca.edu",
         "bio": {
             "generic": [
                 "Carla Golden is on sabbatical in Spring 2019 and will return\u00a0as Coordinator in Fall 2019.\u00a0 Claire Gleitman will be the\u00a0Interim Coordinator of WGST and all questions regarding the program should be directed to Professor Gleitman at gleitman@ithaca.edu."
@@ -3876,23 +3876,23 @@
         "name": "Linda McBride",
         "role": "Professor Emerita",
         "department": "Psychology",
-        "email": "Email: linda@ithaca.edu"
+        "email": "linda@ithaca.edu"
     },
     {
         "name": "George Schuler",
         "role": "Professor Emeritus",
         "department": "Psychology",
-        "email": "Email: schuler@ithaca.edu"
+        "email": "schuler@ithaca.edu"
     },
     {
         "name": "Katherine Cohen-Filipic",
         "role": "Associate Professor",
         "department": "Sociology",
-        "phone": "Phone: 607-274-5122",
-        "email": "Email: kcohenfilipic@ithaca.edu",
-        "office": "Office: Muller Faculty Center 219, Ithaca, NY 14850",
+        "phone": "607-274-5122",
+        "email": "kcohenfilipic@ithaca.edu",
+        "office": "Muller Faculty Center 219, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Clinical Social Work",
+            "Clinical Social Work",
             "Direct Practice with Children and Families",
             "Community Mental Health"
         ],
@@ -3909,10 +3909,10 @@
         "role": "Associate Professor",
         "department": "Sociology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-09/from%20Crystal.jpg.webp?itok=OYrAruVb",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jbrenton@ithaca.edu",
-        "office": "Office: Muller Faculty Center, Ithaca, NY 14850",
-        "specialty": "Specialty: Health & Illness; Intersectionality; Family; Qualitative Methods",
+        "school": "School of Humanities and Sciences",
+        "email": "jbrenton@ithaca.edu",
+        "office": "Muller Faculty Center, Ithaca, NY 14850",
+        "specialty": "Health & Illness; Intersectionality; Family; Qualitative Methods",
         "bio": {
             "about_me:_i_grew_up_in_a_rural_town_in_maine._i_had_never_heard_of_sociology_until_i_took_a_course_my_first_year_of_college._i_soon_switched_my_major!_after_i_finished_college_i_spent_two_years_as_a_peace_corps_volunteer_in_guinea,_west_africa._while_there_i_became_fascinated_with_culture,_health,_and_medicine._today_i_study_and_teach_about_health_and_illness_(among_other_things)._i_see_the_classroom_as_a_transformative_space_for_students_and_for_myself._in_my_courses_i_focus_on_how_multiple_inequalities_(e.g.,_race,_class,_and_gender)_shape_the_way_people_think_about_and_experience_health_and_illness._i_love_when_students_ask_questions,_as_i_think_this_is_an_essential_component_of_learning._in_my_courses_we_examine_questions_like:_is_health_a_basic_human_right?_who_has_the_power_to_define_what_health_and_illness_mean?_is_western_medicine_the_best_medicine?_i_look_forward_to_seeing_you_in_my_classroom!\n\neducation:": [
                 "Ph.D. (2014) North Carolina State University",
@@ -3966,9 +3966,9 @@
         "name": "Sergio Cabrera",
         "role": "Associate Professor",
         "department": "Sociology",
-        "email": "Email: scabrera@ithaca.edu",
-        "office": "Office: Muller Faculty Center 212, Ithaca, NY 14850",
-        "specialty": "Specialty: Economic Sociology; Culture; Consumerism; Inequality; Sociological Theory; Methods",
+        "email": "scabrera@ithaca.edu",
+        "office": "Muller Faculty Center 212, Ithaca, NY 14850",
+        "specialty": "Economic Sociology; Culture; Consumerism; Inequality; Sociological Theory; Methods",
         "bio": {
             "generic": [
                 "THIS PAGE HAS MOVED. CLICK HERE"
@@ -3979,9 +3979,9 @@
         "name": "Jessica Dunning-Lozano",
         "role": "Associate Professor",
         "department": "Sociology",
-        "email": "Email: jdunninglozano@ithaca.edu",
-        "office": "Office: Muller Faculty Center 215, Ithaca, NY 14850",
-        "specialty": "Specialty: Sociology",
+        "email": "jdunninglozano@ithaca.edu",
+        "office": "Muller Faculty Center 215, Ithaca, NY 14850",
+        "specialty": "Sociology",
         "bio": {
             "generic": [
                 "Jessica Dunning-Lozano is an Assistant Professor in the Department of Sociology at Ithaca College. Her research broadly examines the micro effects of large-scale social and economic policies on poor communities. She investigates what happens when the punitive arm of the state becomes enmeshed with social institutions designed to provide a public good, such as public education. Her research interests are in education, crime, law, and deviance, race, poverty, and ethnography.",
@@ -3997,10 +3997,10 @@
         "role": "Dean of Faculty Equity",
         "department": "Provost and Academic Affairs",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-07/Belisa%20cropped%20image.jpg.webp?itok=a8Cms7OS",
-        "phone": "Phone: 607-274-3921",
-        "email": "Email: bgonzalez@ithaca.edu",
-        "office": "Office: Job 215",
-        "specialty": "Specialty: Race and Ethnicity & Social Inequality",
+        "phone": "607-274-3921",
+        "email": "bgonzalez@ithaca.edu",
+        "office": "Job 215",
+        "specialty": "Race and Ethnicity & Social Inequality",
         "bio": {
             "generic": [
                 "Belisa Gonz\u00e1lez is Professor of Sociology and Dean of Faculty, Equity, Inclusion, and Belonging. Originally from San Antonio, TX, Belisa Gonz\u00e1lez earned her PhD in Sociology from Emory University in 2006. While in Atlanta, she was a member and co-chair of the Atlanta Organizing Committee (AOC) for Undoing Racism. It was her experience with the organizers on AOC and others like it that formed the basis of her dissertation \u201cIncreasing Collaboration or Conflict,\u201d which focused on sustainable cross racial organizing efforts between African Americans and Latinos in the South. Her role as an organizer and co-facilitator of quarterly Undoing Racism workshops helped her better understand interweaving systems of oppression and their consequences on everyday lives, the power of community and the importance of taking leadership from marginalized peoples.\u00a0 After completing her degree at Emory Belisa held a one year postdoc at the University of Georgia, before accepting a position in the Sociology department at Ithaca College (IC) in 2007.",
@@ -4015,12 +4015,12 @@
         "role": "Professor",
         "department": "Sociology",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-09/sweet-9-20-24a.jpg.webp?itok=8aUl5ItX",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-379-1415",
-        "email": "Email: ssweet@ithaca.edu",
-        "office": "Office: Muller Faculty Center 211, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-379-1415",
+        "email": "ssweet@ithaca.edu",
+        "office": "Muller Faculty Center 211, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Work",
+            "Work",
             "Family",
             "and the Life Course"
         ],
@@ -4043,11 +4043,11 @@
         "name": "Alicia Swords",
         "role": "Professor and Chair",
         "department": "Sociology",
-        "phone": "Phone: 607-274-1209",
-        "email": "Email: aswords@ithaca.edu",
-        "office": "Office: Muller Faculty Center 218, Ithaca, NY 14850",
+        "phone": "607-274-1209",
+        "email": "aswords@ithaca.edu",
+        "office": "Muller Faculty Center 218, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Public Sociology",
+            "Public Sociology",
             "Social Movements and Social Change"
         ],
         "bio": {
@@ -4109,8 +4109,8 @@
         "name": "Susanne Morgan",
         "role": "Professor Emerita",
         "department": "Sociology",
-        "email": "Email: morgan@ithaca.edu",
-        "specialty": "Specialty: Faculty Development",
+        "email": "morgan@ithaca.edu",
+        "specialty": "Faculty Development",
         "bio": {
             "generic": [
                 "I had a wonderful career teaching sociology, at Ithaca College since 1983. My dissertation is the same age as my son, born in 1971, and my daughter was born the day before the last class of my first year of teaching, in 1973. I'm proud that my career was awarded the status of Professor Emerita\u00a0in 2012.",
@@ -4132,11 +4132,11 @@
         "role": "Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-02/201212.nell_.82203_0.jpg.webp?itok=6TlFll2d",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3324",
-        "email": "Email: ehenderson@ithaca.edu",
-        "office": "Office: Smiddy 402",
-        "specialty": "Specialty: Fiction Writing",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3324",
+        "email": "ehenderson@ithaca.edu",
+        "office": "Smiddy 402",
+        "specialty": "Fiction Writing",
         "bio": {
             "generic": [
                 "Eleanor Henderson grew up in Florida and has taught in the Department of Writing since 2010. Her latest book is the memoir Everything I Have Is Yours: A Marriage (Flatiron, 2021), which was selected for the New York Times Group Text Book Club\u00a0and named a New York Times Notable Book. She is also the author of the novels\u00a0The Twelve-Mile Straight (Ecco, 2017) and Ten Thousand Saints (Ecco, 2011), which was named one of the 10 Best Books of 2011 by The New York Times, was a finalist for the Award for First Fiction from The Los Angeles Times, and was adapted into a movie starring Ethan Hawke.",
@@ -4198,8 +4198,8 @@
         "role": "Retired Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-10/cory.jpeg.webp?itok=wnKLQzJ7",
-        "email": "Email: cbrown@ithaca.edu",
-        "specialty": "Specialty: Poetry Writing",
+        "email": "cbrown@ithaca.edu",
+        "specialty": "Poetry Writing",
         "bio": {
             "generic": [
                 "I grew up in a small town on the plains of western Oklahoma near the banks of the Canadian River, near where my father's parents and grandparents homesteaded early in the last century. Winters are cold and dry there, but relatively short; springs are exciting with their new growth and the frequent tornadic eruptions; summers hot and dry\u00a0of course, but the\u00a0evening\u00a0sunsets are spectacular,\u00a0as if painted by an overzealous child artist; and autumns, once past the heat of summer, are long and mild--every season lots of sun, breath-taking winds, and of course enormous skies.",
@@ -4277,12 +4277,12 @@
         "role": "Associate Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-01/headshot.jpg.webp?itok=GjpWQxWC",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3493",
-        "email": "Email: sadamsdelaney@ithaca.edu",
-        "office": "Office: 409 Smiddy Hall",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3493",
+        "email": "sadamsdelaney@ithaca.edu",
+        "office": "409 Smiddy Hall",
         "specialty": [
-            "Specialty: Academic Writing",
+            "Academic Writing",
             "Research & Professional Writing",
             "Neurodivergent Students & Teachers"
         ],
@@ -4307,11 +4307,11 @@
         "role": "Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2020-10/di-renzo-headshot.jpg.webp?itok=u_8SRyYd",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3614",
-        "email": "Email: direnzo@ithaca.edu",
-        "office": "Office: Smiddy Hall 426, Ithaca, NY 14850",
-        "specialty": "Specialty: Professional and Technical Writing (PTW)",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3614",
+        "email": "direnzo@ithaca.edu",
+        "office": "Smiddy Hall 426, Ithaca, NY 14850",
+        "specialty": "Professional and Technical Writing (PTW)",
         "bio": {
             "generic": [
                 "Dr. Anthony Di Renzo, a recipient of the Ithaca College Excellence in Teaching Award (2003), specializes in professional and technical writing (PTW). A former copywriter, medical writer, and publicist, he developed or codeveloped the five courses in the Writing major\u2019s Professional Writing concentration: Writing for the Workplace (WRTG-21100), Technical Writing (WRTG-21300), Writing for the Professions (WRTG-31100), Science Writing (WRTG-31400), and Proposal and Writing (WRTG-31700). These courses serve not only students in the professions and sciences but also local businesses, government agencies, and nonprofits. He also teaches academic writing, classical rhetoric (both argument and satire), and composition theory with an emphasis on ethnic semiotics.",
@@ -4327,10 +4327,10 @@
         "role": "Assistant Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-10/megan39sm.png.webp?itok=cj0kRaLW",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: mdgraham@ithaca.edu",
-        "office": "Office: Smiddy Hall 425, Ithaca, NY 14850",
-        "specialty": "Specialty: Nonfiction; Grammar and Usage",
+        "school": "School of Humanities and Sciences",
+        "email": "mdgraham@ithaca.edu",
+        "office": "Smiddy Hall 425, Ithaca, NY 14850",
+        "specialty": "Nonfiction; Grammar and Usage",
         "bio": {
             "generic": [
                 "creative nonfiction",
@@ -4347,12 +4347,12 @@
         "role": "Associate Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-10/81645d21-bc82-4b3d-b31c-969febf51170.jpeg.webp?itok=vvMfc1SJ",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-5146",
-        "email": "Email: nkowalczyk@ithaca.edu",
-        "office": "Office: Smiddy Hall 421",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-5146",
+        "email": "nkowalczyk@ithaca.edu",
+        "office": "Smiddy Hall 421",
         "specialty": [
-            "Specialty: Creative Nonfiction (Personal Essay",
+            "Creative Nonfiction (Personal Essay",
             "Memoir) & Academic Writing & Professional Writing"
         ],
         "bio": {
@@ -4380,11 +4380,11 @@
         "role": "Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-06/machan_webphoto.jpeg.webp?itok=L8HeLQ09",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3325",
-        "email": "Email: machan@ithaca.edu",
-        "office": "Office: Smiddy Hall 424, Ithaca, NY 14850",
-        "specialty": "Specialty: Creative Writing",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3325",
+        "email": "machan@ithaca.edu",
+        "office": "Smiddy Hall 424, Ithaca, NY 14850",
+        "specialty": "Creative Writing",
         "bio": {
             "generic": [
                 "Katharyn Howd Machan began teaching writing at Ithaca College in 1977. She\u00a0grew up in Woodbury, Connecticut and Pleasantville, New York. She studied creative writing and literature at the College of Saint Rose for a Bachelor of Arts and at the University of Iowa for a Master of Arts, taught college for five years, returned to graduate school for a Ph.D. in Interpretation (Performance Studies) at Northwestern University and, now as a full professor, puts\u00a0special emphasis on first-year seminars and Honors courses,\u00a0all\u00a0with a focus on fairy tales. She lives happily in Ithaca with her spouse, fellow poet and Director of the Office of Extended Studies, Eric Machan Howd, and both celebrate\u00a0the lives of their two grown children, CoraRose and Benjamin.",
@@ -4408,12 +4408,12 @@
         "role": "Assistant Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-04/img_3893.jpeg.webp?itok=dP-kh31l",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3470",
-        "email": "Email: jmarcus@ithaca.edu",
-        "office": "Office: Smiddy Hall 420",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3470",
+        "email": "jmarcus@ithaca.edu",
+        "office": "Smiddy Hall 420",
         "specialty": [
-            "Specialty: Memoir",
+            "Memoir",
             "Fiction",
             "Children's Literature"
         ],
@@ -4472,10 +4472,10 @@
         "role": "Assistant Professor and Exploratory Pathways Co-Director",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-04/katie-work-photo-sp-2020.jpg.webp?itok=V1kNpoDH",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3569",
-        "email": "Email: kmarks@ithaca.edu",
-        "office": "Office: Muller Faculty Center 204, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3569",
+        "email": "kmarks@ithaca.edu",
+        "office": "Muller Faculty Center 204, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "personal essay",
@@ -4494,10 +4494,10 @@
         "role": "Assistant Professor and Ithaca Seminar Program Coordinator",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-03/amyquanfinalsm.jpg.webp?itok=ROD5S02X",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3503",
-        "email": "Email: aquan@ithaca.edu",
-        "office": "Office: Smiddy Hall 404A, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3503",
+        "email": "aquan@ithaca.edu",
+        "office": "Smiddy Hall 404A, Ithaca, NY 14850",
         "bio": {
             "generic": [
                 "Assessment",
@@ -4524,9 +4524,9 @@
         "role": "Associate Professor and Writing First Year Composition Director",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-02/head-shot-mary-lourdes-professional.jpg.webp?itok=hIFujTNE",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: msilva@ithaca.edu",
-        "specialty": "Specialty: Writing Studies and Multimodal Composition",
+        "school": "School of Humanities and Sciences",
+        "email": "msilva@ithaca.edu",
+        "specialty": "Writing Studies and Multimodal Composition",
         "bio": {
             "generic": [
                 "My earliest memories of acquiring an education was on my Azorean parents' dairy farm in California where I learned to save my fingers while milking calves, locate the lone bull in a cow pen, and snap haywire with one lemon squeeze and violent twist. Years later, my education extended to the classrooms of California State University, Fresno. As an English major, I pursued my interests in poetry, which really emerged from my interests in Pink Floyd. In January 2000, I started the M.F.A. program in poetry and later switched to nonfiction prose after the lines in my poems started metamorphosizing into sentences and paragraphs.",
@@ -4540,12 +4540,12 @@
         "role": "Assistant Professor and Writing Center Director",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-03/resized-profile-picture_1.png.webp?itok=9jDIlfJ0",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3567",
-        "email": "Email: psirohi@ithaca.edu",
-        "office": "Office: Smiddy Hall 407, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3567",
+        "email": "psirohi@ithaca.edu",
+        "office": "Smiddy Hall 407, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Colonialism/Postcolonialism",
+            "Colonialism/Postcolonialism",
             "Rhetorical Theory & History",
             "Public Rhetoric",
             "Digital Literacy",
@@ -4565,12 +4565,12 @@
         "role": "Assistant Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2024-07/1719941269423.jpeg.webp?itok=ATELLTYU",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1070",
-        "email": "Email: jstafford@ithaca.edu",
-        "office": "Office: Smiddy 414",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1070",
+        "email": "jstafford@ithaca.edu",
+        "office": "Smiddy 414",
         "specialty": [
-            "Specialty: Composition",
+            "Composition",
             "Professional Writing and Rhetoric"
         ],
         "bio": {
@@ -4608,11 +4608,11 @@
         "role": "Professor",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2021-02/190521_jackwang_portrait_1419_0.jpg.webp?itok=2vucuDEf",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-1065",
-        "email": "Email: wang@ithaca.edu",
-        "office": "Office: Smiddy Hall 419, Ithaca, NY 14850",
-        "specialty": "Specialty: Fiction writing",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-1065",
+        "email": "wang@ithaca.edu",
+        "office": "Smiddy Hall 419, Ithaca, NY 14850",
+        "specialty": "Fiction writing",
         "bio": {
             "generic": [
                 "JACK WANG earned a BSc from the University of Toronto, an MFA from the University of Arizona, and a PhD in English/Creative Writing from Florida State University. He is the author of the story collection We Two Alone (House of Anansi Press, 2020; HarperVia 2021), longlisted for Canada Reads 2022, shortlisted for the 2021 Kobo Emerging Writer Prize, and winner of the 2021 Central New York Book Award in Fiction and the 2020 Danuta Gleed Literary Award from the Writers' Union of Canada for best debut collection in English. His fiction has appeared in The Fiddlehead, Brick, PRISM International, The Malahat Review, The New Quarterly, The Humber Literary Review, and Joyland and has been shortlisted for the Commonwealth Short Story Prize and longlisted for the Writers' Trust McClelland & Stewart Journey Prize. In 2014-15, he held the David T. K. Wong Creative Writing Fellowship at the University of East Anglia in Norwich, England; in 2021, he received a NYSCA/NYFA Artist Fellowship in Fiction from The New York Foundation for the Arts and a Research and Creation Grant from the Canada Council for the Arts. He is also the co-creator of two popular board book series, Cozy Classics and Star Wars Epic Yarns. He has taught at Ithaca College since 2006 and served as department chair from 2011-14 and 2017-20. Originally from Vancouver, he lives in Ithaca with his wife, novelist Angelina Mirabella, and their two daughters."
@@ -4624,12 +4624,12 @@
         "role": "Associate Professor and Writing Major Coordinator",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2022-09/Screen%20Shot%202022-07-12%20at%209.51.16%20AM.png.webp?itok=sVG5yAeF",
-        "school": "School: School of Humanities and Sciences",
-        "phone": "Phone: 607-274-3543",
-        "email": "Email: jwarburton@ithaca.edu",
-        "office": "Office: Smiddy Hall 405, Ithaca, NY 14850",
+        "school": "School of Humanities and Sciences",
+        "phone": "607-274-3543",
+        "email": "jwarburton@ithaca.edu",
+        "office": "Smiddy Hall 405, Ithaca, NY 14850",
         "specialty": [
-            "Specialty: Poetry",
+            "Poetry",
             "Lit Theory",
             "Fan Studies"
         ],
@@ -4666,10 +4666,10 @@
         "role": "Associate Professor and Chair",
         "department": "Writing",
         "image_url": "https://www.ithaca.edu/sites/default/files/styles/max_325x325/public/2023-02/jake%20edited%20profile%202.png.webp?itok=o9sSF_u4",
-        "school": "School: School of Humanities and Sciences",
-        "email": "Email: jrwhite@ithaca.edu",
-        "office": "Office: Smiddy Hall 422, Ithaca, NY 14850",
-        "specialty": "Specialty: Fiction Writing",
+        "school": "School of Humanities and Sciences",
+        "email": "jrwhite@ithaca.edu",
+        "office": "Smiddy Hall 422, Ithaca, NY 14850",
+        "specialty": "Fiction Writing",
         "bio": {
             "generic": [
                 "DEGREES",
@@ -4691,8 +4691,8 @@
         "name": "Rachel Fomalhaut",
         "role": "Lecturer",
         "department": "Writing",
-        "email": "Email: rfomalhaut@ithaca.edu",
-        "office": "Office: 406",
+        "email": "rfomalhaut@ithaca.edu",
+        "office": "406",
         "bio": {
             "generic": [
                 "Rachel Fomalhaut (she/they) has been teaching cross-disciplinary undergraduate courses in public university, four-year private college, and community college settings since 2008. Dedicated to a student-centered pedagogical approach, Fomalhaut enjoys teaching diverse populations of students and meeting students where they are at."

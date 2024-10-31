@@ -76,7 +76,7 @@ for link in links:
                 if len(links) > 0:
                     value = links[0].get_text().strip()
                 else:  # Content is not a link, can safely get the text
-                    value = div.get_text()
+                    value = div.get_text().split(':')[-1].strip()
 
                     # Check for a list
                     value_parts = value.split(',')
