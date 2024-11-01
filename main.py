@@ -132,6 +132,9 @@ for link in links:
                     fac['bio'] = bio
 
     facs.append(fac)
+    # You should just be able to run some kind of insert method here to put the
+    # fac object right into the database.
+
 
 with open('faculty.json', 'w') as f:
     f.write(json.dumps(facs, indent=4))
