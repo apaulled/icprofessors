@@ -106,7 +106,7 @@ for link in links:
                             # A trailing colon is assumed to be an indicator of a section heading
                             if len(text.strip()) > 0 and text.strip()[-1] == ':':
                                 if len(value) > 0:
-                                    bio[key.lower().replace(' ', '_')] = value
+                                    bio[key.lower().replace(' ', '_').replace(':', '')] = value
                                 value = []
                                 key = text.strip().lower()
                                 continue
@@ -127,7 +127,7 @@ for link in links:
                                 if child_text != '':
                                     value.append(child_text)
 
-                bio[key.lower().replace(' ', '_')] = value
+                bio[key.lower().replace(' ', '_').replace(':', '')] = value
                 if len(bio) > 0:
                     fac['bio'] = bio
 

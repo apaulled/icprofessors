@@ -2,11 +2,15 @@ import json
 from pymongo import MongoClient
 
 # MongoDB connection setup
-client = MongoClient("mongodb://phuong:705130665@147.129.181.20:11101/local")
+client = MongoClient(host='147.129.181.20',
+                     port=11101,
+                     username='phuong',
+                     password='705130665',
+                     authSource='user-management',
+                     authMechanism='SCRAM-SHA-256')
 
-# Define the database and collection
-db = client['phuong_db']  # Replace with your database name
-collection = db['faculties']  # Replace with your collection name
+db = client['phuong_db']
+collection = db['faculties']
 
 # Load JSON data
 with open('faculty.json') as file:
