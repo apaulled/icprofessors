@@ -78,12 +78,6 @@ for link in links:
                 else:  # Content is not a link, can safely get the text
                     value = div.get_text().split(':')[-1].strip()
 
-                    # Check for a list
-                    value_parts = value.split(',')
-                    # Office locations are comma-separated, but should not be treated as lists
-                    if len(value_parts) > 1 and 'Office' not in key:
-                        value = [part.strip() for part in value_parts]
-
                 fac[key.lower()] = value
 
     # Get Paragraph Information from Under the Contact Details
@@ -132,8 +126,6 @@ for link in links:
                     fac['bio'] = bio
 
     facs.append(fac)
-    # You should just be able to run some kind of insert method here to put the
-    # fac object right into the database.
 
 
 with open('faculty.json', 'w') as f:
