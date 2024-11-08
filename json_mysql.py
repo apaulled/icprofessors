@@ -32,13 +32,18 @@ def remove_bad_characters(s):
     return "".join(c for c in s if c.isalnum() or c == ' ')
 
 
+password = ''
+with open('passwords.json') as file:
+    passwords = json.load(file)
+    password = passwords['paul']
+
 with open('lukas_faculty.json') as file:
     faculty = json.loads(file.read())
 
     conn = mysql.connector.connect(
         host="127.0.0.1",
         port=3306,
-        user="paul",
+        user=password,
         password="704860125",
         database="faculty"
     )

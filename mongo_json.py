@@ -4,10 +4,16 @@ from bson import ObjectId
 from pymongo import MongoClient
 import mysql.connector
 
+
+password = ''
+with open('passwords.json') as file:
+    passwords = json.load(file)
+    password = passwords['lukas']
+
 client = MongoClient(host='147.129.181.20',
                      port=11101,
                      username='lukas',
-                     password='705148068',
+                     password=password,
                      authSource='user-management',
                      authMechanism='SCRAM-SHA-256')
 

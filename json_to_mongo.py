@@ -1,11 +1,16 @@
 import json
 from pymongo import MongoClient
 
+password = ''
+with open('passwords.json') as file:
+    passwords = json.load(file)
+    password = passwords['phuong']
+
 # MongoDB connection setup
 client = MongoClient(host='147.129.181.20',
                      port=11101,
                      username='phuong',
-                     password='705130665',
+                     password=password,
                      authSource='user-management',
                      authMechanism='SCRAM-SHA-256')
 
